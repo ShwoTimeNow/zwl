@@ -56,7 +56,7 @@ public class LinearGradientTextView extends TextView {
                 // MIRROR重复着色的图像水平或垂直方向已镜像方式填充会有翻转效果
                 // REPEAT重复着色的图像水平或垂直方向
                 mLinearGradient = new LinearGradient(0, 0, mViewWidth, mViewHeight,
-                        Color.WHITE, Color.BLACK, Shader.TileMode.MIRROR);
+                        Color.YELLOW, Color.BLACK, Shader.TileMode.MIRROR);
                 mPaint.setShader(mLinearGradient);
                 mGradientMatrix = new Matrix();
             }
