@@ -1,4 +1,4 @@
-package com.example.zhangweilong.zwl;
+package com.example.zhangweilong.zwl.Shader;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -6,13 +6,15 @@ import android.graphics.Color;
 import android.graphics.LinearGradient;
 import android.graphics.Matrix;
 import android.graphics.Paint;
-import android.graphics.RadialGradient;
 import android.graphics.Shader;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
 /**
  * Created by zhangweilong on 15/11/20.
+ * mViewWidth，mViewHeight：控件的宽高
+ * mTranslateX：水平移动参数
+ * mGradientMatrix：位移矩阵
  */
 public class LinearGradientTextView extends TextView {
 
