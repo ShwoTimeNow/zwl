@@ -15,5 +15,12 @@
 
     <com.example.zhangweilong.zwl.Shader.RoundGradientView
         android:layout_width="80dp"
+        android:layout_gravity="center_horizontal"
         android:layout_height="80dp" />
+
+    <com.example.zhangweilong.zwl.Shader.CircleGradientView
+        android:layout_width="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="80dp"/>
 </LinearLayout>
