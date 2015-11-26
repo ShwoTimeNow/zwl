@@ -12,7 +12,6 @@ import android.view.View;
 
 /**
  * Created by weilong on 2015/11/22.
- * 效果不好
  */
 public class CircleGradientView extends View {
 
@@ -21,7 +20,7 @@ public class CircleGradientView extends View {
     private Paint mPaint;
     private RadialGradient mRadiaGradient;
     private Matrix matrix;
-    private static float MIN_SCALE = 0.1f;//最小缩放变量
+    private static float MIN_SCALE = 0.1f;//
     private static float SCALE_VALUE = 1f;
 
     public CircleGradientView(Context context) {
