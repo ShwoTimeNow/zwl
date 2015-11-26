@@ -4,10 +4,12 @@
     android:layout_height="match_parent">
 
     <com.example.zhangweilong.zwl.RadioGroup.ScrollRadioGroup
+            android:id="@+id/srg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
         <RadioButton
+            android:id="@+id/rb1"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:button="@null"
@@ -15,6 +17,7 @@
             android:gravity="center"
             android:layout_height="50dp" />
         <RadioButton
+            android:id="@+id/rb2"
             android:button="@null"
             android:text="不在售"
             android:gravity="center"
@@ -22,6 +25,7 @@
             android:layout_weight="1"
             android:layout_height="50dp" />
         <RadioButton
+            android:id="@+id/rb3"
             android:text="再不自爱手"
             android:button="@null"
             android:gravity="center"
@@ -29,6 +33,7 @@
             android:layout_weight="1"
             android:layout_height="50dp" />
         <RadioButton
+            android:id="@+id/rb4"
             android:text="好"
             android:button="@null"
             android:gravity="center"
