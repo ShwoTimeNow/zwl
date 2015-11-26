@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Shader.ShaderActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".PropertyAnimation.PropertyAninationActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".RadioGroup.RadioGroupActivity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

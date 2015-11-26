@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 通用 颜色 -->
+    <color name="red_ff5a37_theme">#ff5a37</color>
+    <color name="red_df8a67">#df8a67</color>
+    <color name="red_f8512c">#f8512c</color>
+    <color name="red_e55131">#e55131</color>
+    <color name="red_ffeeeb">#ffeeeb</color>
+    <color name="red_ffbdaf">#ffbdaf</color>
+    <color name="red_fc6744">#fc6744</color>
+    <color name="red_fd8668">#fd8668</color>
+    <color name="red_ff8247">#FF8247</color>
+    <color name="red_ff0000">#ff0000</color>
+    <color name="red_ff2500">#FF2500</color>
+    <color name="green_5dab45">#5dab45</color>
+    <color name="green_54bc00">#54bc00</color>
+    <color name="green_5aac4f">#5aac4f</color>
+    <color name="green_17c700">#17c700</color>
+    <color name="green_e2f3d8">#e2f3d8</color>
+    <color name="green_6dc23e">#6dc23e</color>
+    <color name="green_3fb16f">#3fb16f</color>
+    <color name="green_d4d4d4">#d4d4d4</color>
+    <color name="gray_f6f6f6_theme">#f6f6f6</color>
+    <color name="gray_e9e9e9">#ebe9e9</color>
+    <color name="gray_dddddd">#dddddd</color>
+    <color name="gray_838383">#838383</color>
+    <color name="gray_e1e1e1">#e1e1e1</color>
+    <color name="gray_595959">#595959</color>
+    <color name="gray_b7b7b7">#b7b7b7</color>
+    <color name="gray_8c8c8c">#8C8C8C</color>
+    <color name="gray_ababab">#ababab</color>
+    <color name="gray_cbcbcb">#cbcbcb</color>
+    <color name="gray_6d6d6d">#6d6d6d</color>
+    <color name="gray_7c7c7c">#7c7c7c</color>
+    <color name="orange_fff6ed">#fff6ed</color>
+    <color name="orange_fee1c2">#fee1c2</color>
+    <color name="orange_f86d23">#f86d23</color>
+    <color name="orange_ffba00">#ffba00</color>
+    <color name="orange_fff2e0">#fff2e0</color>
+    <color name="orange_ff9933">#ff9933</color>
+    <color name="orange_ffb51a">#ffb51a</color>
+    <color name="orange_fef9e2">#fef9e2</color>
+    <color name="black_595959_theme">#595959</color>
+    <color name="black_3c3c3c">#3c3c3c</color>
+    <color name="black_404040">#404040</color>
+    <color name="black_000000">#000000</color>
+    <color name="black_1b1b1b">#1b1b1b</color>
+    <color name="blue_01abeb">#01ABEB</color>
+    <color name="white_ffffff">#ffffff</color>
+    <color name="translate_0000">#0000</color>
+    <color name="translate_1aff5a37">#1aff5a37</color>
+    <color name="translate_5aff5a37">#5aff5a37</color>
+    <color name="translate_88ffffff">#88ffffff</color>
+    <!-- 收款顶部背景 -->
+    <color name="collect_header_top">#fb7a36</color>
+    <color name="collect_header_bottom">#ed3b2f</color>
+    <color name="quality_expired_bg">#a8a8a8</color>
+    <color name="quality_normal_bg">#404040</color>
+    <color name="login_bg">#F6F6F6</color>
+    <color name="seperate_horizontal">#E4E4E4</color>
+    <color name="seperate_vertical">#D3D3D3</color>
+    <color name="login_forget_color">#FF9256</color>
+    <color name="login_tag_color">#6E6E6E</color>
+    <color name="login_tip_color">#84898D</color>
+    <color name="home_color_item1_normal">#CCF46801</color>
+    <color name="home_color_item1_pressed">#99F46801</color>
+    <color name="home_color_item2_normal">#CCFF970F</color>
+    <color name="home_color_item2_pressed">#99FF970F</color>
+    <color name="home_color_item3_normal">#CCFFC600</color>
+    <color name="home_color_item3_pressed">#99FFC600</color>
+    <color name="home_color_item4_normal">#CC37ACF4</color>
+    <color name="home_color_item4_pressed">#9937ACF4</color>
+    <color name="home_color_item5_normal">#CC37CAF4</color>
+    <color name="home_color_item5_pressed">#9937CAF4</color>
+    <color name="home_color_item6_normal">#CC5FCDB9</color>
+    <color name="home_color_item6_pressed">#995FCDB9</color>
+    <color name="dialog_cancel_color">#868686</color>
+    <color name="dialog_price_color">#FF663C</color>
+    <color name="hot_search_rank_one">#ff2e00</color>
+    <color name="hot_search_rank_four">#ababab</color>
+    <color name="sell_item_no_text_bg">#77000000</color>
+    <color name="sell_item_top_line_bg">#55FFFFFF</color>
+    <!-- 收款详情 -->
+    <color name="collect_details_key_tx_color">#6d6d6d</color>
+    <color name="collect_pay_price_tx_color">#ff663c</color>
+    <color name="message_content_color">#6D6D6D</color>
+    <color name="big_image_bg">#EE2A2A2A</color>
+    <!-- 半价申请-hp是halfprice简写 -->
+    <color name="hp_contract_line">#e3e3e3</color>
+    <color name="hp_apply_bg">#f2f2f2</color>
+    <color name="hp_apply_explain">#818181</color>
+    <color name="hp_upload_progress_drawable_bg">#5aad4e</color>
+    <color name="hp_exit_bg">#f3f3f3</color>
+    <color name="hp_apply_line">#e2e2e2</color>
+    <color name="hp_apply_wait">#bcbcbc</color>
+    <!-- 违章 -->
+    <color name="LightBlack">#2A2A2A</color>
+    <color name="GrayShallow">#ECECEC</color>
+    <color name="wz_carno_grid_item_color">#666666</color>
+    <color name="wz_tarinfo">#999999</color>
+    <color name="wz_tarinfo_hint">#bebebe</color>
+    <!-- 激活会员 -->
+    <color name="wake_vip_userinfo">#b3b3b3</color>
+    <!-- 合同 -->
+    <color name="contract_list_line">#d7d7d7</color>
+    <!-- 车型车系 -->
+    <color name="black_light">#404040</color>
+    <color name="white_light">#f3f3f3</color>
+    <color name="brand_select_indicatorOringe">#ff5a37</color>
+    <color name="brand_select_indicatorGray">#d9d9d9</color>
+    <!-- 签名背景色 -->
+    <color name="signbackgroud">#ededed</color>
+    <!-- 刷选 -->
+    <color name="search_result_bg_no_result">#e3e1e1</color>
+    <color name="search_result_bg_has_result">#17c700</color>
+    <color name="search_result_text_no_result">#ababab</color>
+    <color name="search_result_text_has_result">#ffffff</color>
+    <!-- 个人中心 -->
+    <color name="mine_font">#424242</color>
+    <!-- 估价 -->
+    <color name="bg_evaluate">#f5f5f5</color>
+    <color name="evaluate_title">#3c3c3c</color>
+    <color name="evaluate_hint">#5a5a5a</color>
+    <color name="white70percent">#B3ffffff</color>
+    <color name="evaluate_time">#848484</color>
+    <!-- 违章 -->
+    <color name="violation_province">#ff5a37</color>
+    <color name="violation_delete">#519ade</color>
+    <color name="violation_content">#3c3c3c</color>
+</resources>
