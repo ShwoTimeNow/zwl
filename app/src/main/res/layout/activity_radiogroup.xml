@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.example.zhangweilong.zwl.RadioGroup.ScrollRadioGroup
+    <com.example.zhangweilong.zwl.RadioGroup.UnScrollRadioGroup
             android:id="@+id/srg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,5 +42,51 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp" />
-    </com.example.zhangweilong.zwl.RadioGroup.ScrollRadioGroup>
+    </com.example.zhangweilong.zwl.RadioGroup.UnScrollRadioGroup>
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:text="在售1"
+            android:gravity="center"
+            android:layout_height="50dp" />
+        <RadioButton
+            android:button="@null"
+            android:text="不在售1"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp" />
+        <RadioButton
+            android:text="再不自爱手1"
+            android:button="@null"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp" />
+        <RadioButton
+            android:text="好1"
+            android:button="@null"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp" />
+    </RadioGroup>
+    <com.example.zhangweilong.zwl.RadioGroup.ScrollIndicator
+        android:id="@+id/srollIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        app:indicatorColor="@color/red_df8a67"
+        android:orientation="horizontal">
+        <View
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:background="@color/red_df8a67"/>
+    </com.example.zhangweilong.zwl.RadioGroup.ScrollIndicator>
 </LinearLayout>

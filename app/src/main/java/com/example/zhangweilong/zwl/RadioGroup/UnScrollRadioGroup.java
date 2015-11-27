@@ -5,7 +5,6 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
@@ -15,7 +14,7 @@ import java.util.Map;
 /**
  * Created by zhangweilong on 15/11/26.
  */
-public class ScrollRadioGroup extends RadioGroup implements RadioGroup.OnCheckedChangeListener{
+public class UnScrollRadioGroup extends RadioGroup implements RadioGroup.OnCheckedChangeListener{
 
     private Paint linePaint;
     private boolean mIndicatorScroll;
@@ -24,13 +23,12 @@ public class ScrollRadioGroup extends RadioGroup implements RadioGroup.OnChecked
     private int checkedIndex;
     private int mCurrentIndex;
 
-    private int startX,startY,endX,endY;
 
-    public ScrollRadioGroup(Context context) {
+    public UnScrollRadioGroup(Context context) {
         super(context);
         init();
     }
-    public ScrollRadioGroup(Context context, AttributeSet attrs) {
+    public UnScrollRadioGroup(Context context, AttributeSet attrs) {
         super(context, attrs);
         init();
     }
@@ -54,10 +52,6 @@ public class ScrollRadioGroup extends RadioGroup implements RadioGroup.OnChecked
                     map.put(getChildAt(i).getId(), index);
                     if (index == 0) {
                         ((RadioButton) getChildAt(i)).setChecked(true);
-                        startX = 0;
-                        startY = getHeight();
-                        endX = getWidth() / getChildCount();
-                        endY = getHeight();
                     }
                     index ++;
                 }
@@ -68,11 +62,7 @@ public class ScrollRadioGroup extends RadioGroup implements RadioGroup.OnChecked
     @Override
     protected void dispatchDraw(Canvas canvas) {
         super.dispatchDraw(canvas);
-        if (mIndicatorScroll){
-            canvas.drawLine(startX,startY,endX,endY,linePaint);
-        }else {
             canvas.drawLine(checkedIndex * getWidth() / getChildCount(), getHeight(), (checkedIndex + 1) * getWidth() / getChildCount(), getHeight(), linePaint);
-        }
     }
 
     public boolean ismIndicatorScroll() {
@@ -88,27 +78,7 @@ public class ScrollRadioGroup extends RadioGroup implements RadioGroup.OnChecked
         if (group.getCheckedRadioButtonId() == checkedId && map.keySet().contains(checkedId)){
             //do myself thing
             checkedIndex = map.get(checkedId);
-
-            int munis =  checkedIndex - mCurrentIndex;
-            int rato = getWidth()/getChildCount()/250;
-            Log.e("zwl","rato:"+rato);
-            for (int i = 0; i < Math.abs(munis)*250;i++){
-                try {
-                    Thread.sleep(1);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                if (munis>0) {
-                    startX += rato;
-                    endX += rato;
-                }else {
-                    startX -= rato;
-                    endX -=rato;
-                }
-                Log.e("zwl",startX+","+startY+","+endX+","+endY);
-                invalidate();
-            }
-
+            invalidate();
             mCurrentIndex = checkedIndex;
             //this mothod can apply for out using (zwl)
             if (onCheckedChangeListener != null){
@@ -117,12 +87,11 @@ public class ScrollRadioGroup extends RadioGroup implements RadioGroup.OnChecked
         }
     }
 
-    public void setOnCheckedChangeListener(OnCheckedChangeListener onCheckedChangeListener){
+    public void setCheckedChangeListener(OnCheckedChangeListener onCheckedChangeListener){
         this.onCheckedChangeListener = onCheckedChangeListener;
     }
 
     interface OnCheckedChangeListener{
-       void setCheckedTrue(RadioGroup group, int checkedId);
+        void setCheckedTrue(RadioGroup group, int checkedId);
     }
-
 }

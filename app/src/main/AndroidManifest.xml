@@ -19,7 +19,7 @@
         <activity android:name=".Shader.ShaderActivity"
             android:screenOrientation="portrait"
             />
-        <activity android:name=".PropertyAnimation.PropertyAninationActivity"
+        <activity android:name=".PropertyAnimation.PropertyAnimationActivity"
             android:screenOrientation="portrait"/>
         <activity android:name=".RadioGroup.RadioGroupActivity"
             android:screenOrientation="portrait"/>
