@@ -19,10 +19,10 @@
         <activity android:name=".Shader.ShaderActivity"
             android:screenOrientation="portrait"
             />
-        <activity android:name=".PropertyAnimation.PropertyAnimationActivity"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".RadioGroup.RadioGroupActivity"
-            android:screenOrientation="portrait"/>
+        <activity android:name=".PropertyAnimation.PropertyAnimationActivity"/>
+        <activity android:name=".RadioGroup.RadioGroupActivity"/>
+        <activity android:name=".PropertyAnimation.MyActivity"/>
+        <activity android:name=".PropertyAnimation.ExampleActivity"/>
     </application>
 
 </manifest>
