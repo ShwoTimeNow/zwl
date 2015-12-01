@@ -4,4 +4,13 @@
         <attr name="indicatorHeight" format="dimension"/>
         <attr name="indicatorColor" format="reference"/>
     </declare-styleable>
+
+    <declare-styleable name="CircleBar">
+        <attr name="bigCircleRadius" format="dimension"/>
+        <attr name="smallCircleRadius" format="dimension"/>
+        <attr name="bigCircleStrokeWidth" format="dimension"/>
+        <attr name="smallCircleStrokeWidth" format="dimension"/>
+        <attr name="bigCircleColor" format="reference"/>
+        <attr name="smallCircleColor" format="reference"/>
+    </declare-styleable>
 </resources>

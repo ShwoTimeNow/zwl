@@ -23,6 +23,7 @@
         <activity android:name=".RadioGroup.RadioGroupActivity"/>
         <activity android:name=".PropertyAnimation.MyActivity"/>
         <activity android:name=".PropertyAnimation.ExampleActivity"/>
+        <activity android:name=".View.ViewActivity"/>
     </application>
 
 </manifest>

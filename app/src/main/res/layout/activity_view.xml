@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:circleBar="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.zhangweilong.zwl.View.CircleBar
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        circleBar:bigCircleColor="@color/gray_6d6d6d"
+        circleBar:bigCircleRadius="50dp"
+        circleBar:bigCircleStrokeWidth="2dp"
+        circleBar:smallCircleColor="@color/red_df8a67"
+        circleBar:smallCircleStrokeWidth="4dp"
+        />
+
+    <com.example.zhangweilong.zwl.View.ArcCircleBar
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+</LinearLayout>
