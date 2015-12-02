@@ -13,7 +13,7 @@ import com.example.zhangweilong.zwl.R;
 /**
  * Created by zhangweilong on 15/12/1.
  * skcan the follow address  zwl
- * http://www.jianshu.com/p/11210b14f743
+ * {#link http://www.jianshu.com/p/11210b14f743}
  */
 public class CircleBar extends View {
 
