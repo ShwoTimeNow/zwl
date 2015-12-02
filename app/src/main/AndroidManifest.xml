@@ -24,6 +24,8 @@
         <activity android:name=".PropertyAnimation.MyActivity"/>
         <activity android:name=".PropertyAnimation.ExampleActivity"/>
         <activity android:name=".View.ViewActivity"/>
+        <activity android:name=".EditView.EditViewActivity"/>
+        <activity android:name=".TextView.TextViewActivity"/>
     </application>
 
 </manifest>
