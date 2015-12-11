@@ -5,4 +5,24 @@
         <!-- Customize your theme here. -->
     </style>
 
+    
+    <style name="PopupWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/bottom_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/bottom_fade_out</item>
+    </style>
+    <style name="PopupWindowAnimationFadeIn">
+        <item name="android:fromAlpha">1</item>
+        <item name="android:toAlpha">0</item>
+        <item name="android:duration">500</item>
+    </style>
+    <style name="PopupWindowAnimationFadeOut">
+        <item name="android:fromAlpha">0</item>
+        <item name="android:toAlpha">1</item>
+        <item name="android:duration">500</item>
+    </style>
+
+    <style name="PopupWindowAnimationFade">
+        <item name="android:windowEnterAnimation">@anim/abc_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/abc_fade_out</item>
+    </style>
 </resources>

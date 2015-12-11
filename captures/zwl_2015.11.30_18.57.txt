@@ -1,0 +1,1900 @@
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{43955610 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{437c9bc8 android broadcastIntent}
+  * PendingIntentRecord{439ab5c0 com.tencent.mm startService}
+  * PendingIntentRecord{4468c010 com.uxin.usedcar startService}
+  * PendingIntentRecord{44a54da8 com.taobao.taobao startService}
+  * PendingIntentRecord{4426cf50 com.youxinpai.carcollect broadcastIntent}
+  * PendingIntentRecord{4381a688 com.sec.android.pagebuddynotisvc startActivity}
+  * PendingIntentRecord{43916ab8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{449b1938 com.tencent.mm startActivity}
+  * PendingIntentRecord{439ce8b8 com.tencent.mm startService}
+  * PendingIntentRecord{437943e0 android broadcastIntent}
+  * PendingIntentRecord{435ca0f0 android startActivity}
+  * PendingIntentRecord{44277998 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{4427ca08 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{43989b68 com.tencent.mm startService}
+  * PendingIntentRecord{45629db0 com.autonavi.minimap startService}
+  * PendingIntentRecord{42ccec98 com.android.ss broadcastIntent}
+  * PendingIntentRecord{44674fb8 com.sec.android.app.clockpackage broadcastIntent}
+  * PendingIntentRecord{4435c690 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{432f6ef0 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{45728620 com.uxin.usedcar broadcastIntent}
+  * PendingIntentRecord{439aaa18 com.browser_llqhz broadcastIntent}
+  * PendingIntentRecord{44a53180 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{44a5e390 com.taobao.taobao broadcastIntent}
+  * PendingIntentRecord{444171d0 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{442173e0 com.ss.android.article.news startActivity}
+  * PendingIntentRecord{454a6a18 com.tencent.mm startActivity}
+  * PendingIntentRecord{4446cdf8 com.ss.android.article.news startService}
+  * PendingIntentRecord{456d5378 com.ss.android.essay.joke startService}
+  * PendingIntentRecord{43816150 android broadcastIntent}
+  * PendingIntentRecord{4472a630 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{43571ee8 android broadcastIntent}
+  * PendingIntentRecord{43771e60 android broadcastIntent}
+  * PendingIntentRecord{45495348 com.youxinpai.carcollect broadcastIntent}
+  * PendingIntentRecord{44266a88 com.sec.android.daemonapp broadcastIntent}
+  * PendingIntentRecord{441e2b68 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{4373bf78 android broadcastIntent}
+  * PendingIntentRecord{455a1f40 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{439b6008 com.tencent.mm startService}
+  * PendingIntentRecord{43980980 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{4396aea0 android broadcastIntent}
+  * PendingIntentRecord{4375ed58 android broadcastIntent}
+  * PendingIntentRecord{4396f5c8 com.android.systemui broadcastIntent}
+  * PendingIntentRecord{457a2ab8 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{441debe8 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{4374f778 android broadcastIntent}
+  * PendingIntentRecord{438b8888 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{44293330 com.browser_llqhz broadcastIntent}
+  * PendingIntentRecord{43841058 com.shuame.mobile broadcastIntent}
+  * PendingIntentRecord{4423efc8 com.google.android.gms startService}
+  * PendingIntentRecord{4449a870 com.shuame.mobile broadcastIntent}
+  * PendingIntentRecord{44426af0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{456b3d38 com.eg.android.AlipayGphone broadcastIntent}
+  * PendingIntentRecord{448a4f40 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{454162f0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{43849c70 com.shuame.mobile startActivity}
+  * PendingIntentRecord{442bae20 com.sohu.inputmethod.sogou startService}
+  * PendingIntentRecord{442c9338 com.hipu.yidian broadcastIntent}
+  * PendingIntentRecord{437de710 com.google.android.partnersetup startService}
+  * PendingIntentRecord{44a31f90 com.google.android.gms startService}
+  * PendingIntentRecord{446e10b0 com.android.mms broadcastIntent}
+  * PendingIntentRecord{4373c190 android broadcastIntent}
+  * PendingIntentRecord{4427e7e8 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{439a0f70 com.tencent.mm startService}
+  * PendingIntentRecord{438d4f38 android startActivity}
+  * PendingIntentRecord{455c0c38 com.taobao.taobao broadcastIntent}
+  * PendingIntentRecord{443931e0 com.sina.weibo broadcastIntent}
+  * PendingIntentRecord{44838450 android startActivity}
+  * PendingIntentRecord{4432ba58 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{4481d990 com.youxinpai.carcollect broadcastIntent}
+  * PendingIntentRecord{4355a4f8 android broadcastIntent}
+  * PendingIntentRecord{43758340 com.sina.weibo broadcastIntent}
+  * PendingIntentRecord{4471a0e8 com.uxin.usedcar broadcastIntent}
+  * PendingIntentRecord{44433b68 com.uxin.goodcar broadcastIntent}
+  * PendingIntentRecord{43556500 com.android.systemui broadcastIntent}
+  * PendingIntentRecord{4388dd18 android broadcastIntent}
+  * PendingIntentRecord{4541c0f0 com.shuame.mobile broadcastIntent}
+  * PendingIntentRecord{44270348 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{442712a0 android startActivity}
+  * PendingIntentRecord{439aeeb8 com.tencent.mm startService}
+  * PendingIntentRecord{4358d008 android broadcastIntent}
+  * PendingIntentRecord{44709620 com.ss.android.essay.joke startService}
+  * PendingIntentRecord{43940a20 com.cmbchina.ccd.pluto.cmbActivity broadcastIntent}
+  * PendingIntentRecord{449f96e0 com.android.mms startActivity}
+  * PendingIntentRecord{447014e8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{435a53b0 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{43982cf8 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{45635488 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{44259400 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{44446d58 com.android.systemui startActivity}
+  * PendingIntentRecord{43953930 android broadcastIntent}
+  * PendingIntentRecord{443be0a8 com.eg.android.AlipayGphone startService}
+  * PendingIntentRecord{4569cec8 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{4369e3b8 com.android.systemui broadcastIntent}
+  * PendingIntentRecord{4351de90 android broadcastIntent}
+  * PendingIntentRecord{4429a040 com.android.ota broadcastIntent}
+  * PendingIntentRecord{4497e7d0 com.shuame.mobile broadcastIntent}
+  * PendingIntentRecord{44412ee0 com.ss.android.essay.joke startActivity}
+  * PendingIntentRecord{438ddfa0 com.cmbchina.ccd.pluto.cmbActivity broadcastIntent}
+  * PendingIntentRecord{442e31d8 com.hipu.yidian broadcastIntent}
+  * PendingIntentRecord{449c2a30 com.tencent.mm startActivity}
+  * PendingIntentRecord{454d7df0 com.eg.android.AlipayGphone broadcastIntent}
+  * PendingIntentRecord{43981840 com.tencent.mm startService}
+  * PendingIntentRecord{44209ce0 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{438bc0e0 android broadcastIntent}
+  * PendingIntentRecord{438146f0 android broadcastIntent}
+  * PendingIntentRecord{44293c38 android broadcastIntent}
+  * PendingIntentRecord{441fbd08 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{43859308 com.shuame.mobile startActivity}
+  * PendingIntentRecord{45812428 com.hipu.yidian broadcastIntent}
+  * PendingIntentRecord{44281ed8 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{45679988 com.uxin.usedcar broadcastIntent}
+  * PendingIntentRecord{43912678 android startActivity}
+  * PendingIntentRecord{439537b8 android broadcastIntent}
+  * PendingIntentRecord{43639588 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{446a0da8 com.youxinpai.carcollect broadcastIntent}
+  * PendingIntentRecord{4568c2a8 com.tencent.mobileqq startActivity}
+  * PendingIntentRecord{43901130 com.android.phone broadcastIntent}
+  * PendingIntentRecord{43800dc0 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{4590a200 com.cmbchina.ccd.pluto.cmbActivity broadcastIntent}
+  * PendingIntentRecord{452f8d60 com.sec.android.app.clockpackage broadcastIntent}
+  * PendingIntentRecord{454d81b0 com.autonavi.minimap broadcastIntent}
+  * PendingIntentRecord{452a4fc0 com.hipu.yidian startService}
+  * PendingIntentRecord{4471f780 com.android.mms startActivity}
+  * PendingIntentRecord{448ac088 com.uxin.usedcar broadcastIntent}
+  * PendingIntentRecord{437aadb8 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{439e7008 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{434c1180 com.hipu.yidian broadcastIntent}
+  * PendingIntentRecord{437b2e80 android broadcastIntent}
+  * PendingIntentRecord{437c6778 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{439a4338 com.tencent.mm startService}
+  * PendingIntentRecord{43552750 android broadcastIntent}
+  * PendingIntentRecord{4470d6e8 com.android.mms startActivity}
+  * PendingIntentRecord{44f490f8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{44fae628 com.autonavi.minimap broadcastIntent}
+  * PendingIntentRecord{4427e0c0 com.hipu.yidian broadcastIntent}
+  * PendingIntentRecord{438d4288 com.shuame.mobile startActivity}
+  * PendingIntentRecord{436724a0 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{438038a0 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{446e21b0 com.android.mms startActivity}
+  * PendingIntentRecord{438ee1c8 com.sohu.inputmethod.sogou broadcastIntent}
+  * PendingIntentRecord{43905128 com.cmbchina.ccd.pluto.cmbActivity broadcastIntent}
+  * PendingIntentRecord{435795d8 com.shuame.mobile startService}
+  * PendingIntentRecord{437ebc90 com.tencent.mm broadcastIntent}
+  * PendingIntentRecord{4396ad08 android broadcastIntent}
+  * PendingIntentRecord{455e1be0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{44461ba8 com.hipu.yidian startActivity}
+
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{450575c8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25272855, android.intent.extra.ALARM_COUNT=1}]
+  #1: BroadcastRecord{458591c8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25213214, android.intent.extra.ALARM_COUNT=1}]
+  #2: BroadcastRecord{439ab088 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25153215, android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{446a1a30 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #4: BroadcastRecord{44858f88 u-1 android.intent.action.SCREEN_OFF}
+    act=android.intent.action.SCREEN_OFF flg=0x50000010 (has extras)
+    extras: Bundle[{why=3}]
+  #5: BroadcastRecord{44443450 u-1 android.intent.action.SCREEN_ON}
+    act=android.intent.action.SCREEN_ON flg=0x50000010
+  #6: BroadcastRecord{441eeee8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25093214, android.intent.extra.ALARM_COUNT=1}]
+  #7: BroadcastRecord{44f9e998 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25033215, android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{455eddc0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24973215, android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{4576c188 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24913214, android.intent.extra.ALARM_COUNT=1}]
+  #10: BroadcastRecord{458f1fe0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24853214, android.intent.extra.ALARM_COUNT=1}]
+  #11: BroadcastRecord{446d4590 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24793214, android.intent.extra.ALARM_COUNT=1}]
+  #12: BroadcastRecord{44480ff0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24733214, android.intent.extra.ALARM_COUNT=1}]
+  #13: BroadcastRecord{452203e8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24673214, android.intent.extra.ALARM_COUNT=1}]
+  #14: BroadcastRecord{455e80e0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24613214, android.intent.extra.ALARM_COUNT=1}]
+  #15: BroadcastRecord{45712f78 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24553214, android.intent.extra.ALARM_COUNT=1}]
+  #16: BroadcastRecord{4593f008 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24493215, android.intent.extra.ALARM_COUNT=1}]
+  #17: BroadcastRecord{44364070 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24433214, android.intent.extra.ALARM_COUNT=1}]
+  #18: BroadcastRecord{441fd438 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24373215, android.intent.extra.ALARM_COUNT=1}]
+  #19: BroadcastRecord{4488e4c0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24313214, android.intent.extra.ALARM_COUNT=1}]
+  #20: BroadcastRecord{4433fca8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24253214, android.intent.extra.ALARM_COUNT=1}]
+  #21: BroadcastRecord{44a3e340 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24193214, android.intent.extra.ALARM_COUNT=1}]
+  #22: BroadcastRecord{4559b1c8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24133214, android.intent.extra.ALARM_COUNT=1}]
+  #23: BroadcastRecord{457acf30 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24073214, android.intent.extra.ALARM_COUNT=1}]
+  #24: BroadcastRecord{458ed670 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24013215, android.intent.extra.ALARM_COUNT=1}]
+  #25: BroadcastRecord{45648a70 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23953215, android.intent.extra.ALARM_COUNT=1}]
+  #26: BroadcastRecord{443938d8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23893214, android.intent.extra.ALARM_COUNT=1}]
+  #27: BroadcastRecord{4575dcb0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23833214, android.intent.extra.ALARM_COUNT=1}]
+  #28: BroadcastRecord{4546a440 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23773214, android.intent.extra.ALARM_COUNT=1}]
+  #29: BroadcastRecord{456d5e70 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23713214, android.intent.extra.ALARM_COUNT=1}]
+  #30: BroadcastRecord{458d8f18 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23653214, android.intent.extra.ALARM_COUNT=1}]
+  #31: BroadcastRecord{443e1ae0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23593214, android.intent.extra.ALARM_COUNT=1}]
+  #32: BroadcastRecord{456864f0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23533214, android.intent.extra.ALARM_COUNT=1}]
+  #33: BroadcastRecord{451324e0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23473215, android.intent.extra.ALARM_COUNT=1}]
+  #34: BroadcastRecord{454e63b0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23413214, android.intent.extra.ALARM_COUNT=1}]
+  #35: BroadcastRecord{456efa10 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23353214, android.intent.extra.ALARM_COUNT=1}]
+  #36: BroadcastRecord{45873370 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23293214, android.intent.extra.ALARM_COUNT=1}]
+  #37: BroadcastRecord{4520d350 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23233215, android.intent.extra.ALARM_COUNT=1}]
+  #38: BroadcastRecord{453b5230 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23173215, android.intent.extra.ALARM_COUNT=1}]
+  #39: BroadcastRecord{42f60220 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23113214, android.intent.extra.ALARM_COUNT=1}]
+  #40: BroadcastRecord{450fa070 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23053214, android.intent.extra.ALARM_COUNT=1}]
+  #41: BroadcastRecord{456127d0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22993214, android.intent.extra.ALARM_COUNT=1}]
+  #42: BroadcastRecord{4573ca58 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22933215, android.intent.extra.ALARM_COUNT=1}]
+  #43: BroadcastRecord{4481a740 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22873214, android.intent.extra.ALARM_COUNT=1}]
+  #44: BroadcastRecord{44996378 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22813214, android.intent.extra.ALARM_COUNT=1}]
+  #45: BroadcastRecord{44a4fb20 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22753215, android.intent.extra.ALARM_COUNT=1}]
+  #46: BroadcastRecord{454a1ce0 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22693215, android.intent.extra.ALARM_COUNT=1}]
+  #47: BroadcastRecord{456ec350 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22633214, android.intent.extra.ALARM_COUNT=1}]
+  #48: BroadcastRecord{449cb250 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22573214, android.intent.extra.ALARM_COUNT=1}]
+  #49: BroadcastRecord{44702ca8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22513214, android.intent.extra.ALARM_COUNT=1}]
+  #0: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25272855, android.intent.extra.ALARM_COUNT=1}]
+  #1: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25213214, android.intent.extra.ALARM_COUNT=1}]
+  #2: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25153215, android.intent.extra.ALARM_COUNT=1}]
+  #3: act=android.intent.action.SCREEN_ON flg=0x50000010
+  #4: act=android.intent.action.SCREEN_OFF flg=0x50000010 (has extras)
+    extras: Bundle[{why=3}]
+  #5: act=android.intent.action.SCREEN_ON flg=0x50000010
+  #6: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25093214, android.intent.extra.ALARM_COUNT=1}]
+  #7: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25033215, android.intent.extra.ALARM_COUNT=1}]
+  #8: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24973215, android.intent.extra.ALARM_COUNT=1}]
+  #9: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24913214, android.intent.extra.ALARM_COUNT=1}]
+  #10: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24853214, android.intent.extra.ALARM_COUNT=1}]
+  #11: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24793214, android.intent.extra.ALARM_COUNT=1}]
+  #12: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24733214, android.intent.extra.ALARM_COUNT=1}]
+  #13: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24673214, android.intent.extra.ALARM_COUNT=1}]
+  #14: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24613214, android.intent.extra.ALARM_COUNT=1}]
+  #15: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24553214, android.intent.extra.ALARM_COUNT=1}]
+  #16: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24493215, android.intent.extra.ALARM_COUNT=1}]
+  #17: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24433214, android.intent.extra.ALARM_COUNT=1}]
+  #18: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24373215, android.intent.extra.ALARM_COUNT=1}]
+  #19: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24313214, android.intent.extra.ALARM_COUNT=1}]
+  #20: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24253214, android.intent.extra.ALARM_COUNT=1}]
+  #21: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24193214, android.intent.extra.ALARM_COUNT=1}]
+  #22: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24133214, android.intent.extra.ALARM_COUNT=1}]
+  #23: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24073214, android.intent.extra.ALARM_COUNT=1}]
+  #24: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=24013215, android.intent.extra.ALARM_COUNT=1}]
+  #25: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23953215, android.intent.extra.ALARM_COUNT=1}]
+  #26: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23893214, android.intent.extra.ALARM_COUNT=1}]
+  #27: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23833214, android.intent.extra.ALARM_COUNT=1}]
+  #28: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23773214, android.intent.extra.ALARM_COUNT=1}]
+  #29: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23713214, android.intent.extra.ALARM_COUNT=1}]
+  #30: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23653214, android.intent.extra.ALARM_COUNT=1}]
+  #31: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23593214, android.intent.extra.ALARM_COUNT=1}]
+  #32: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23533214, android.intent.extra.ALARM_COUNT=1}]
+  #33: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23473215, android.intent.extra.ALARM_COUNT=1}]
+  #34: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23413214, android.intent.extra.ALARM_COUNT=1}]
+  #35: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23353214, android.intent.extra.ALARM_COUNT=1}]
+  #36: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23293214, android.intent.extra.ALARM_COUNT=1}]
+  #37: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23233215, android.intent.extra.ALARM_COUNT=1}]
+  #38: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23173215, android.intent.extra.ALARM_COUNT=1}]
+  #39: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23113214, android.intent.extra.ALARM_COUNT=1}]
+  #40: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=23053214, android.intent.extra.ALARM_COUNT=1}]
+  #41: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22993214, android.intent.extra.ALARM_COUNT=1}]
+  #42: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22933215, android.intent.extra.ALARM_COUNT=1}]
+  #43: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22873214, android.intent.extra.ALARM_COUNT=1}]
+  #44: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22813214, android.intent.extra.ALARM_COUNT=1}]
+  #45: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22753215, android.intent.extra.ALARM_COUNT=1}]
+  #46: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22693215, android.intent.extra.ALARM_COUNT=1}]
+  #47: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22633214, android.intent.extra.ALARM_COUNT=1}]
+  #48: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22573214, android.intent.extra.ALARM_COUNT=1}]
+  #49: act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=22513214, android.intent.extra.ALARM_COUNT=1}]
+  ...
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{45674b40 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25268712, android.intent.extra.ALARM_COUNT=1}]
+  #1: BroadcastRecord{438ff538 u0 android.intent.action.BADGE_COUNT_UPDATE}
+    act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #2: BroadcastRecord{457a5308 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25258712, android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{457b2910 u0 android.intent.action.BADGE_COUNT_UPDATE}
+    act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #4: BroadcastRecord{45814428 u0 com.android.server.NotificationManagerService.NotificationArrived}
+    act=com.android.server.NotificationManagerService.NotificationArrived flg=0x10
+  #5: BroadcastRecord{45817b00 u0 com.system.action.NOTIFICATION}
+    act=com.system.action.NOTIFICATION flg=0x10 (has extras)
+    extras: Bundle[{com.system.notification.DashNotificationManagerService.Disable=false, com.system.notification.DashNotificationManagerService.Notification=Bundle[{notification_score=-20, notification_id=1, notification_delete_intent_present=false, notification_package=com.shuame.mobile, version=1, notification=Notification(pri=-2 icon=7f020165 contentView=com.shuame.mobile/0x7f030067 vibrate=null sound=null defaults=0x0 flags=0x2 when=1448855783089 ledARGB=0x0 contentIntent=N deleteIntent=N contentTitle=N contentText=N originalPackageName=N tickerText=N kind=[null]), notification_content_intent_present=false, notification_pid=3649, notification_tag=null, notification_uid=10135}], com.system.notification.DashNotificationManagerService.Type=2}]
+  #6: BroadcastRecord{4583d388 u0 android.intent.action.BADGE_COUNT_UPDATE}
+    act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #7: BroadcastRecord{4584ee98 u0 null}
+    flg=0x14 (has extras)
+    targetComp: {com.tencent.mm/com.tencent.mm.booter.MMReceivers$AlarmReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448881000109, android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{458c6638 u0 com.tencent.mm.TrafficStatsReceiver}
+    act=com.tencent.mm.TrafficStatsReceiver flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25251842, android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{458d9878 u0 com.ixintui.action.WAKEUP_ALARM}
+    act=com.ixintui.action.WAKEUP_ALARM flg=0x14 (has extras)
+    targetComp: {com.browser_llqhz/com.ixintui.push.Receiver}
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880998985, android.intent.extra.ALARM_COUNT=1}]
+  #10: BroadcastRecord{45890178 u0 com.android.server.NotificationManagerService.NotificationArrived}
+    act=com.android.server.NotificationManagerService.NotificationArrived flg=0x10
+  #11: BroadcastRecord{45897268 u0 com.system.action.NOTIFICATION}
+    act=com.system.action.NOTIFICATION flg=0x10 (has extras)
+    extras: Bundle[{com.system.notification.DashNotificationManagerService.Disable=false, com.system.notification.DashNotificationManagerService.Notification=Bundle[{notification_score=-20, notification_id=1, notification_delete_intent_present=false, notification_package=com.shuame.mobile, version=1, notification=Notification(pri=-2 icon=7f020165 contentView=com.shuame.mobile/0x7f030067 vibrate=null sound=null defaults=0x0 flags=0x2 when=1448855783089 ledARGB=0x0 contentIntent=N deleteIntent=N contentTitle=N contentText=N originalPackageName=N tickerText=N kind=[null]), notification_content_intent_present=false, notification_pid=3649, notification_tag=null, notification_uid=10135}], com.system.notification.DashNotificationManagerService.Type=2}]
+  #12: BroadcastRecord{458b2e68 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303678, health=2, online=4, status=5, plugged=2, present=true, level=100, scale=100, temperature=290, current_avg=1200, voltage=4317, charge_type=0, power_sharing=false, invalid_charger=0}]
+  #13: BroadcastRecord{458f59d8 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25248712, android.intent.extra.ALARM_COUNT=1}]
+  #14: BroadcastRecord{459076b0 u0 com.samsung.android.app.galaxyfinder.tag.media_location_update_action}
+    act=com.samsung.android.app.galaxyfinder.tag.media_location_update_action flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=192]
+  #15: BroadcastRecord{450aad38 u0 agoo_action_heart}
+    act=agoo_action_heart flg=0x14 pkg=com.autonavi.minimap (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880988512, android.intent.extra.ALARM_COUNT=1}]
+  #16: BroadcastRecord{450da2c0 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25238712, android.intent.extra.ALARM_COUNT=1}]
+  #17: BroadcastRecord{450da5e0 u0 AlarmTaskScheduleBak.com.cmbchina.ccd.pluto.cmbActivity}
+    act=AlarmTaskScheduleBak.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880985317, android.intent.extra.ALARM_COUNT=1}]
+  #18: BroadcastRecord{450da6a8 u0 android.intent.action.PROVIDER_CHANGED}
+    act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar flg=0x10
+  #19: BroadcastRecord{452fabb8 u0 action.media.scansingle}
+    act=action.media.scansingle flg=0x10 pkg=com.samsung.indexservice (has extras)
+    extras: Bundle[mParcelledData.dataSize=104]
+  #20: BroadcastRecord{455b2b90 u-1 android.intent.action.MEDIA_SCANNER_SCAN_FILE}
+    act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/ddmsrec.mp4 flg=0x10
+  #21: BroadcastRecord{455c9a68 u0 android.intent.action.VIDEO_PLAYBACK_STOP}
+    act=android.intent.action.VIDEO_PLAYBACK_STOP typ= flg=0x10
+  #22: BroadcastRecord{4561c338 u0 io.rong.push.HeartBeat}
+    act=io.rong.push.HeartBeat flg=0x14 (has extras)
+    targetComp: {com.youxinpai.carcollect/io.rong.push.PushReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25236697, android.intent.extra.ALARM_COUNT=1}]
+  #23: BroadcastRecord{456343d0 u0 AlarmTaskSchedule.com.cmbchina.ccd.pluto.cmbActivity}
+    act=AlarmTaskSchedule.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880983317, android.intent.extra.ALARM_COUNT=1}]
+  #24: BroadcastRecord{45664f78 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25228712, android.intent.extra.ALARM_COUNT=1}]
+  #25: BroadcastRecord{45670e18 u0 com.android.server.action.NETWORK_STATS_POLL}
+    act=com.android.server.action.NETWORK_STATS_POLL flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25219149, android.intent.extra.ALARM_COUNT=1}]
+  #26: BroadcastRecord{45655300 u-1 com.android.server.action.NETWORK_STATS_UPDATED}
+    act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #27: BroadcastRecord{45699518 u0 android.intent.action.DROPBOX_ENTRY_ADDED}
+    act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras)
+    extras: Bundle[{tag=event_data, time=1448880975224}]
+  #28: BroadcastRecord{456abe98 u0 android.intent.action.DROPBOX_ENTRY_ADDED}
+    act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras)
+    extras: Bundle[{tag=event_log, time=1448880975220}]
+  #29: BroadcastRecord{457818a0 u0 com.google.android.gms.INITIALIZE}
+    act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms
+  #30: BroadcastRecord{458e2b28 u0 com.google.android.gms.INITIALIZE}
+    act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms
+  #31: BroadcastRecord{456e6358 u0 android.intent.action.ALARM_CHANGED}
+    act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #32: BroadcastRecord{443f9438 u0 android.intent.action.ALARM_CHANGED}
+    act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #33: BroadcastRecord{44a16768 u-1 android.intent.action.TIME_SET}
+    act=android.intent.action.TIME_SET flg=0x24000010
+  #34: BroadcastRecord{456e6268 u0 android.intent.action.ALARM_CHANGED}
+    act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #35: BroadcastRecord{443f9348 u0 android.intent.action.ALARM_CHANGED}
+    act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #36: BroadcastRecord{4546f740 u-1 android.intent.action.NETWORK_SET_TIME}
+    act=android.intent.action.NETWORK_SET_TIME flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #37: BroadcastRecord{453c1520 u-1 android.intent.action.NETWORK_SET_TIMEZONE}
+    act=android.intent.action.NETWORK_SET_TIMEZONE flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=68]
+  #38: BroadcastRecord{44709ac8 u0 android.intent.action.NITZ_SET_TIME}
+    act=android.intent.action.NITZ_SET_TIME flg=0x20000010
+  #39: BroadcastRecord{455e33b0 u0 android.intent.action.DORMANT_MODE_OFF}
+    act=android.intent.action.DORMANT_MODE_OFF flg=0x10
+  #40: BroadcastRecord{44a166a0 u-1 android.intent.action.TIME_SET}
+    act=android.intent.action.TIME_SET flg=0x24000010
+  #41: BroadcastRecord{4546f650 u-1 android.intent.action.NETWORK_SET_TIME}
+    act=android.intent.action.NETWORK_SET_TIME flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #42: BroadcastRecord{453c1430 u-1 android.intent.action.NETWORK_SET_TIMEZONE}
+    act=android.intent.action.NETWORK_SET_TIMEZONE flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=68]
+  #43: BroadcastRecord{45636050 u0 android.intent.action.BADGE_COUNT_UPDATE}
+    act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #44: BroadcastRecord{439ae188 u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303678, health=2, online=4, status=5, plugged=2, present=true, level=100, scale=100, temperature=287, current_avg=1200, voltage=4318, charge_type=0, power_sharing=false, invalid_charger=0}]
+  #45: BroadcastRecord{4447f208 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25218712, android.intent.extra.ALARM_COUNT=1}]
+  #46: BroadcastRecord{442ddd08 u0 com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity}
+    act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25208712, android.intent.extra.ALARM_COUNT=1}]
+  #47: BroadcastRecord{45208030 u0 null}
+    flg=0x14 pkg=com.youxinpai.carcollect (has extras)
+    targetComp: {com.youxinpai.carcollect/io.rong.imlib.HeartbeatReceiver}
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25206362, android.intent.extra.ALARM_COUNT=1}]
+  #48: BroadcastRecord{458fb8f0 u0 android.intent.action.BADGE_COUNT_UPDATE}
+    act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #49: BroadcastRecord{45650b98 u0 com.xiaomi.push.PING_TIMER}
+    act=com.xiaomi.push.PING_TIMER flg=0x14 pkg=com.hipu.yidian (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880946786, android.intent.extra.ALARM_COUNT=1}]
+  #0: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25268712, android.intent.extra.ALARM_COUNT=1}]
+  #1: act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #2: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25258712, android.intent.extra.ALARM_COUNT=1}]
+  #3: act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #4: act=com.android.server.NotificationManagerService.NotificationArrived flg=0x10
+  #5: act=com.system.action.NOTIFICATION flg=0x10 (has extras)
+    extras: Bundle[{com.system.notification.DashNotificationManagerService.Disable=false, com.system.notification.DashNotificationManagerService.Notification=Bundle[{notification_score=-20, notification_id=1, notification_delete_intent_present=false, notification_package=com.shuame.mobile, version=1, notification=Notification(pri=-2 icon=7f020165 contentView=com.shuame.mobile/0x7f030067 vibrate=null sound=null defaults=0x0 flags=0x2 when=1448855783089 ledARGB=0x0 contentIntent=N deleteIntent=N contentTitle=N contentText=N originalPackageName=N tickerText=N kind=[null]), notification_content_intent_present=false, notification_pid=3649, notification_tag=null, notification_uid=10135}], com.system.notification.DashNotificationManagerService.Type=2}]
+  #6: act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #7: flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448881000109, android.intent.extra.ALARM_COUNT=1}]
+  #8: act=com.tencent.mm.TrafficStatsReceiver flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25251842, android.intent.extra.ALARM_COUNT=1}]
+  #9: act=com.ixintui.action.WAKEUP_ALARM flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880998985, android.intent.extra.ALARM_COUNT=1}]
+  #10: act=com.android.server.NotificationManagerService.NotificationArrived flg=0x10
+  #11: act=com.system.action.NOTIFICATION flg=0x10 (has extras)
+    extras: Bundle[{com.system.notification.DashNotificationManagerService.Disable=false, com.system.notification.DashNotificationManagerService.Notification=Bundle[{notification_score=-20, notification_id=1, notification_delete_intent_present=false, notification_package=com.shuame.mobile, version=1, notification=Notification(pri=-2 icon=7f020165 contentView=com.shuame.mobile/0x7f030067 vibrate=null sound=null defaults=0x0 flags=0x2 when=1448855783089 ledARGB=0x0 contentIntent=N deleteIntent=N contentTitle=N contentText=N originalPackageName=N tickerText=N kind=[null]), notification_content_intent_present=false, notification_pid=3649, notification_tag=null, notification_uid=10135}], com.system.notification.DashNotificationManagerService.Type=2}]
+  #12: act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303678, health=2, online=4, status=5, plugged=2, present=true, level=100, scale=100, temperature=290, current_avg=1200, voltage=4317, charge_type=0, power_sharing=false, invalid_charger=0}]
+  #13: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25248712, android.intent.extra.ALARM_COUNT=1}]
+  #14: act=com.samsung.android.app.galaxyfinder.tag.media_location_update_action flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=192]
+  #15: act=agoo_action_heart flg=0x14 pkg=com.autonavi.minimap (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880988512, android.intent.extra.ALARM_COUNT=1}]
+  #16: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25238712, android.intent.extra.ALARM_COUNT=1}]
+  #17: act=AlarmTaskScheduleBak.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880985317, android.intent.extra.ALARM_COUNT=1}]
+  #18: act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar flg=0x10
+  #19: act=action.media.scansingle flg=0x10 pkg=com.samsung.indexservice (has extras)
+    extras: Bundle[mParcelledData.dataSize=104]
+  #20: act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///sdcard/ddmsrec.mp4 flg=0x10
+  #21: act=android.intent.action.VIDEO_PLAYBACK_STOP typ= flg=0x10
+  #22: act=io.rong.push.HeartBeat flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25236697, android.intent.extra.ALARM_COUNT=1}]
+  #23: act=AlarmTaskSchedule.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880983317, android.intent.extra.ALARM_COUNT=1}]
+  #24: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25228712, android.intent.extra.ALARM_COUNT=1}]
+  #25: act=com.android.server.action.NETWORK_STATS_POLL flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25219149, android.intent.extra.ALARM_COUNT=1}]
+  #26: act=com.android.server.action.NETWORK_STATS_UPDATED flg=0x40000010
+  #27: act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras)
+    extras: Bundle[{tag=event_data, time=1448880975224}]
+  #28: act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras)
+    extras: Bundle[{tag=event_log, time=1448880975220}]
+  #29: act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms
+  #30: act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms
+  #31: act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #32: act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #33: act=android.intent.action.TIME_SET flg=0x24000010
+  #34: act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #35: act=android.intent.action.ALARM_CHANGED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=40]
+  #36: act=android.intent.action.NETWORK_SET_TIME flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #37: act=android.intent.action.NETWORK_SET_TIMEZONE flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=68]
+  #38: act=android.intent.action.NITZ_SET_TIME flg=0x20000010
+  #39: act=android.intent.action.DORMANT_MODE_OFF flg=0x10
+  #40: act=android.intent.action.TIME_SET flg=0x24000010
+  #41: act=android.intent.action.NETWORK_SET_TIME flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #42: act=android.intent.action.NETWORK_SET_TIMEZONE flg=0x20000010 (has extras)
+    extras: Bundle[mParcelledData.dataSize=68]
+  #43: act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #44: act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, icon-small=17303678, health=2, online=4, status=5, plugged=2, present=true, level=100, scale=100, temperature=287, current_avg=1200, voltage=4318, charge_type=0, power_sharing=false, invalid_charger=0}]
+  #45: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25218712, android.intent.extra.ALARM_COUNT=1}]
+  #46: act=com.gieseckedevrient.android.intent.PING.com.cmbchina.ccd.pluto.cmbActivity flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25208712, android.intent.extra.ALARM_COUNT=1}]
+  #47: flg=0x14 pkg=com.youxinpai.carcollect (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=25206362, android.intent.extra.ALARM_COUNT=1}]
+  #48: act=android.intent.action.BADGE_COUNT_UPDATE flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=312]
+  #49: act=com.xiaomi.push.PING_TIMER flg=0x14 pkg=com.hipu.yidian (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_TARGET_TIME=1448880946786, android.intent.extra.ALARM_COUNT=1}]
+  ...
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.intent.action.SERVICE_STATE
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED
+  * Sticky action android.net.wifi.p2p.CONNECTION_STATE_CHANGE
+  * Sticky action android.net.conn.TETHER_STATE_CHANGED
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.intent.action.NETWORK_SET_TIME
+  * Sticky action android.net.wifi.p2p.THIS_DEVICE_CHANGED
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action com.samsung.glove.ENABLE
+  * Sticky action android.intent.action.NETWORK_SET_TIMEZONE
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.intent.action.ANY_DATA_STATE
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.net.wifi.RSSI_CHANGED
+  * Sticky action android.net.wifi.STATE_CHANGE
+  * Sticky action android.intent.action.SIM_STATE_CHANGED
+  * Sticky action android.intent.action.SIG_STR
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE
+  * Sticky action android.net.wifi.p2p.PERSISTENT_GROUPS_CHANGED
+  * Sticky action android.net.conn.INET_CONDITION_ACTION
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE_IMMEDIATE
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.hardware.usb.action.USB_CABLE_STATE
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action wifi_scan_available
+  * Sticky action android.net.wifi.p2p.STATE_CHANGED
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.RINGER_MODE_CHANGED
+
+  Sticky broadcasts for user 0:
+  * Sticky action com.samsung.android.app.gestureservice.GESTURE_ACTIVE_STATUS
+  * Sticky action com.sec.intent.action.SYSSCOPESTATUS
+  * Sticky action com.samsung.pen.INSERT
+  * Sticky action android.intent.action.MAX_BRIGHTNESS_CHANGED
+
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{441f6b90 u0 com.samsung.android.providers.context/.log.CaptureContentLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.capture_content
+  * ContentProviderRecord{441f6af8 u0 com.samsung.android.providers.context/.log.ManageAppSurveyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.manage_app_survey
+  * ContentProviderRecord{441ef568 u0 com.samsung.android.providers.context/.log.UseMemorySurveyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.use_memory_survey
+  * ContentProviderRecord{441f6d78 u0 com.samsung.android.providers.context/.ContextProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context
+  * ContentProviderRecord{441f4c00 u0 com.samsung.android.providers.context/.log.RecordVideoLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.record_video
+  * ContentProviderRecord{441f7540 u0 com.samsung.android.providers.context/.log.WriteDocumentLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.write_document
+  * ContentProviderRecord{441f6e10 u0 com.samsung.android.providers.context/.log.ChangeDeviceStatusLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.change_device_status
+  * ContentProviderRecord{441f4d50 u0 com.samsung.android.providers.context/.log.UseAppFeatureSurveyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.use_app_feature_survey
+  * ContentProviderRecord{441f4660 u0 com.samsung.android.providers.context/.log.UseAppLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.use_app
+  * ContentProviderRecord{441f75d8 u0 com.samsung.android.providers.context/.log.UseWifiLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.use_wifi
+  * ContentProviderRecord{441f4ff8 u0 com.samsung.android.providers.context/.log.TrackRoamingLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.track_roaming
+  * ContentProviderRecord{441f6ed0 u0 com.samsung.android.providers.context/.log.MoveLocationLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.move_location
+  * ContentProviderRecord{441eec80 u0 com.samsung.android.providers.context/.log.UseBatterySurveyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.use_battery_survey
+  * ContentProviderRecord{441f4570 u0 com.samsung.android.providers.context/.log.ChangeActivityLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.change_activity
+  * ContentProviderRecord{441f47b0 u0 com.samsung.android.providers.context/.log.ExchangeCallLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.exchange_call
+  * ContentProviderRecord{441f5628 u0 com.samsung.android.providers.context/.log.RecordAudioLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.record_audio
+  * ContentProviderRecord{441f5090 u0 com.samsung.android.providers.context/.log.UseAppSurveyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.use_app_survey
+  * ContentProviderRecord{441f6f68 u0 com.samsung.android.providers.context/.log.ReportAppErrorSurveyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.report_app_error_survey
+  * ContentProviderRecord{441f4e10 u0 com.samsung.android.providers.context/.log.PlayMusicLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.play_music
+  * ContentProviderRecord{441f49f8 u0 com.samsung.android.providers.context/.profile.ProfileProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.profile
+  * ContentProviderRecord{441f4868 u0 com.samsung.android.providers.context/.statusmonitors.PlaceStatusProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.status.place
+  * ContentProviderRecord{441f4718 u0 com.samsung.android.providers.context/.log.TakePhotoLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.take_photo
+  * ContentProviderRecord{441f5590 u0 com.samsung.android.providers.context/.log.SearchKeywordLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.search_keyword
+  * ContentProviderRecord{43614710 u0 android/com.android.server.enterprise.content.SecContentProvider}
+    proc=ProcessRecord{4357e508 900:system/1000}
+    singleton=true
+    authority=com.sec.knox.provider
+  * ContentProviderRecord{441f56e8 u0 com.samsung.android.providers.context/.log.MoveAreaProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.move_area
+  * ContentProviderRecord{439d0eb8 u0 com.android.phone/.callsettings.CallSettingsProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    singleton=true
+    authority=com.android.phone.callsettings
+  * ContentProviderRecord{439d0e20 u0 com.android.phone/.SettingSearchProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    singleton=true
+    authority=com.android.phone.settingsearch.provider
+  * ContentProviderRecord{441f5780 u0 com.samsung.android.providers.context/.log.PlayVideoLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.play_video
+  * ContentProviderRecord{439d1118 u0 com.android.phone/.IccProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    singleton=true
+    authority=icc
+  * ContentProviderRecord{441f4f80 u0 com.samsung.android.providers.context/.log.MovePlaceLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.move_place
+  * ContentProviderRecord{441f4ea8 u0 com.samsung.android.providers.context/.log.TrackLegacyLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.track_legacy
+  * ContentProviderRecord{441f7c40 u0 com.samsung.android.providers.context/.log.ExchangeMessageLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.exchange_message
+  * ContentProviderRecord{441f74c8 u0 com.samsung.android.providers.context/.log.BrowseWebLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.browse_web
+  * ContentProviderRecord{441f6a80 u0 com.samsung.android.providers.context/.log.ExchangeEmailLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.exchange_email
+  * ContentProviderRecord{441f7cd8 u0 com.samsung.android.providers.context/.log.ManageAppLogProvider}
+    proc=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    singleton=true
+    authority=com.samsung.android.providers.context.log.manage_app
+  * ContentProviderRecord{43627df0 u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{4357e508 900:system/1000}
+    singleton=true
+    authority=settings
+    50 connections, 0 external handles
+      -> 1427:com.android.systemui/u0a15 s1/1 u0/0 +7h0m57s822ms
+      -> 1691:com.sec.android.app.launcher/u0a45 s1/1 u0/0 +7h0m56s682ms
+      -> 1684:com.android.nfc/1027 s1/1 u0/0 +7h0m56s598ms
+      -> 1671:com.android.phone/1001 s1/1 u0/0 +7h0m56s458ms
+      -> 1906:com.samsung.android.app.gestureservice/1000 s1/1 u0/0 +7h0m55s499ms
+      -> 1915:com.android.bluetooth/1002 s1/1 u0/0 +7h0m55s358ms
+      -> 1994:com.sec.android.widgetapp.ap.hero.accuweather/u0a122 s1/1 u0/0 +7h0m54s672ms
+      -> 2116:com.sec.android.sviewcover/u0a15 s1/1 u0/0 +7h0m53s241ms
+      -> 2706:com.sohu.inputmethod.sogou/u0a157 s1/1 u0/0 +7h0m50s765ms
+      -> 3582:com.shuame.mobile:xg_service_v2/u0a135 s1/1 u0/0 +7h0m43s277ms
+      -> 3649:com.shuame.mobile/u0a135 s1/1 u0/0 +7h0m42s619ms
+      -> 3607:com.tencent.mobileqq:MSF/u0a146 s1/1 u0/0 +7h0m42s565ms
+      -> 2933:com.bst.airmessage/u0a2 s1/1 u0/0 +7h0m38s797ms
+      -> 1632:android.process.media/u0a30 s0/0 u1/1 +7h0m34s675ms
+      -> 4891:com.sec.android.app.SPenKeeper/u0a83 s1/1 u0/0 +7h0m30s935ms
+      -> 5129:com.vlingo.midas/u0a128 s1/1 u0/0 +7h0m27s626ms
+      -> 5189:com.samsung.SMT/1000 s1/1 u0/0 +7h0m26s535ms
+      -> 5323:com.browser_llqhz:ixintui_service_v1/u0a133 s1/1 u0/0 +7h0m25s65ms
+      -> 5520:com.tencent.mm:push/u0a145 s1/1 u0/0 +7h0m23s400ms
+      -> 2220:com.android.contacts/u0a16 s1/1 u0/0 +7h0m22s538ms
+      -> 6399:com.tencent.mm/u0a145 s1/1 u0/0 +7h0m15s110ms
+      -> 8166:com.baidu.map.location/u0a121 s1/1 u0/0 +6h59m35s280ms
+      -> 5009:com.android.de/u0a108 s1/1 u0/0 +6h30m22s744ms
+      -> 20455:com.samsung.android.app.pinboard:sync/u0a25 s1/1 u0/0 +5h46m7s698ms
+      -> 27470:com.sec.android.app.camera/u0a88 s1/1 u0/0 +5h30m54s583ms
+      -> 27878:com.tencent.mobileqq/u0a146 s1/1 u0/0 +5h30m20s170ms
+      -> 2222:com.android.mms/u0a44 s1/1 u0/0 +2h43m35s797ms
+      -> 11027:com.samsung.android.MtpApplication/1000 s1/1 u0/0 +2h18m51s297ms
+      -> 29556:com.youxinpai.carcollect/u0a167 s1/1 u0/0 +1h30m31s272ms
+      -> 29787:com.uxin.usedcar:remote/u0a166 s1/1 u0/0 +1h30m27s480ms
+      -> 29898:com.uxin.usedcar:push/u0a166 s1/1 u0/0 +1h30m26s633ms
+      -> 30671:com.hipu.yidian/u0a155 s1/1 u0/0 +1h28m44s118ms
+      -> 30648:com.hipu.yidian:pushservice/u0a155 s1/1 u0/0 +1h28m43s906ms
+      -> 31910:com.ss.android.essay.joke:push/u0a139 s1/1 u0/0 +1h24m46s542ms
+      -> 32005:com.autonavi.minimap:push/u0a148 s1/1 u0/0 +1h24m37s721ms
+      -> 1019:com.taobao.taobao:channel/u0a149 s1/1 u0/0 +1h22m28s70ms
+      -> 1043:com.taobao.taobao/u0a149 s1/1 u0/0 +1h22m27s948ms
+      -> 1281:com.eg.android.AlipayGphone:push/u0a151 s1/1 u0/0 +1h22m25s818ms
+      -> 2758:sogou.mobile.explorer.hotwords/u0a157 s1/1 u0/0 +1h16m42s344ms
+      -> 27586:com.sec.android.daemonapp/u0a123 s1/1 u0/0 +53m34s183ms
+      -> 10114:com.uxin.usedcar/u0a166 s1/1 u0/0 +52m53s591ms
+      -> 10206:com.uxin.usedcar:ipc/u0a166 s1/1 u0/0 +52m53s78ms
+      -> 11229:com.uxin.goodcar/u0a169 s1/1 u0/0 +51m42s166ms
+      -> 11781:com.uxin.goodcar:ipc/u0a169 s1/1 u0/0 +51m24s884ms
+      -> 11956:com.youxinpai.carcollect:remote/u0a167 s1/1 u0/0 +51m18s424ms
+      -> 20288:com.osp.app.signin/u0a28 s1/1 u0/0 +51s180ms
+      -> 20321:com.android.settings/1000 s1/1 u0/0 +50s580ms
+      -> 20360:com.sec.android.widgetapp.SPlannerAppWidget/u0a86 s1/1 u0/0 +50s446ms
+      -> 20394:com.sec.android.app.clockpackage/u0a109 s1/1 u0/0 +50s145ms
+      -> 20692:com.sec.android.app.videoplayer/u0a36 s1/1 u0/0 +33s126ms
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{44993e40 u0 com.hipu.yidian/com.yidian.news.widget.WidgetContentProvide}
+    proc=ProcessRecord{439abc20 30671:com.hipu.yidian/u0a155}
+    authority=com.hipu.yidian
+  * ContentProviderRecord{44430c78 u0 com.sec.android.daemonapp/.ap.yahoostock.stockclock.db.PublicContentProviderForEdaily}
+    proc=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    authority=com.sec.android.daemonapp.ap.edaily.stockclock
+  * ContentProviderRecord{44374dc8 u0 com.google.android.gms/com.google.android.location.reporting.service.ReportingContentProvider}
+    proc=ProcessRecord{44f9c198 29096:com.google.android.gms.persistent/u0a46}
+    authority=com.google.android.location.reporting
+  * ContentProviderRecord{43766188 u0 com.tencent.mm/.plugin.base.stub.WXCommProvider}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.sdk.comm.provider
+  * ContentProviderRecord{44248f88 u0 com.browser_llqhz/com.browser2345.commwebsite.CommendSitesProvider}
+    proc=ProcessRecord{439c5eb0 12181:com.browser_llqhz/u0a133}
+    authority=com.browser_llqhz.commend.provider
+  * ContentProviderRecord{443798b8 u0 com.android.mms/.SSMSInfoProvider}
+    proc=ProcessRecord{4469d860 2222:com.android.mms/u0a44}
+    authority=com.android.mms.SSMSInfoProvider
+  * ContentProviderRecord{44374e60 u0 com.google.android.gms/com.google.android.location.internal.LocationContentProvider}
+    proc=ProcessRecord{44f9c198 29096:com.google.android.gms.persistent/u0a46}
+    authority=com.google.android.location.internal
+  * ContentProviderRecord{43766220 u0 com.tencent.mm/.plugin.gwallet.GWalletQueryProvider}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.gwallet.queryprovider
+  * ContentProviderRecord{438e6330 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderNearBy}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.NearBy
+  * ContentProviderRecord{439b0078 u0 com.android.bluetooth/.opp.BluetoothOppProvider}
+    proc=ProcessRecord{435974f8 1915:com.android.bluetooth/1002}
+    authority=com.android.bluetooth.opp
+  * ContentProviderRecord{449b9120 u0 com.android.settings/.search.SearchConnectProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.searchconnect.provider
+  * ContentProviderRecord{441e8798 u0 com.android.contacts/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{438d7200 2220:com.android.contacts/u0a16}
+    authority=com.android.contacts.files
+  * ContentProviderRecord{449b91b8 u0 com.android.settings/.autohaptic.ReverbContentProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.reverb.params
+  * ContentProviderRecord{42f8e0c8 u0 com.sec.android.provider.badge/.BadgeProvider}
+    proc=ProcessRecord{4471f978 20830:com.sec.android.provider.badge/u0a53}
+    launchingApp=ProcessRecord{4471f978 20830:com.sec.android.provider.badge/u0a53}
+    authority=com.sec.badge
+  * ContentProviderRecord{439d0ab0 u0 com.android.providers.telephony/.TelephonyProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    authority=telephony
+  * ContentProviderRecord{437645f0 u0 com.tencent.mm/.plugin.ext.provider.ExtContentProviderBase}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.ExtContentProviderBase
+  * ContentProviderRecord{4397fc00 u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{43968f48 1632:android.process.media/u0a30}
+    authority=downloads
+  * ContentProviderRecord{4449a348 u0 com.google.android.gsf/.settings.GoogleSettingsProvider}
+    proc=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    authority=com.google.settings
+  * ContentProviderRecord{442c0230 u0 com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.provider.BrowserProvider}
+    proc=ProcessRecord{44272148 2706:com.sohu.inputmethod.sogou/u0a157}
+    authority=sogou.mobile.explorer.hotwords
+  * ContentProviderRecord{4471e280 u0 com.baidu.map.location/.DebugFlagContentProvider}
+    proc=ProcessRecord{4470c400 8166:com.baidu.map.location/u0a121}
+    authority=com.baidu.map.location.provider.DebugFlag
+  * ContentProviderRecord{449b9250 u0 com.android.settings/.myplace.MyPlaceProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.myplace.MyPlaceProvider
+  * ContentProviderRecord{438d2210 u0 com.vlingo.midas/.provider.WakeupTriggerProvider}
+    proc=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    authority=content.wakeup.provider.trigger
+  * ContentProviderRecord{45367250 u0 com.sec.android.app.clockpackage/.worldclock.common.DataContentProvider}
+    proc=ProcessRecord{45682ff0 20394:com.sec.android.app.clockpackage/u0a109}
+    authority=com.sec.android.provider.stri_s1_worldclock
+  * ContentProviderRecord{438ffd50 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderEntry}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.entry
+  * ContentProviderRecord{4436fc78 u0 com.android.exchange/.provider.ExchangeDirectoryProvider}
+    proc=ProcessRecord{4422f7e0 20027:com.android.exchange/u0a127}
+    authority=com.android.exchange.directory.provider
+  * ContentProviderRecord{453672e8 u0 com.sec.android.app.clockpackage/.alarm.AlarmProvider}
+    proc=ProcessRecord{45682ff0 20394:com.sec.android.app.clockpackage/u0a109}
+    authority=com.samsung.sec.android.clockpackage
+  * ContentProviderRecord{453454a0 u0 com.sina.weibo/.provider.SinaWeiboDBProvider}
+    proc=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    authority=com.sina.weibo.blogProvider
+  * ContentProviderRecord{4421c368 u0 com.sec.android.widgetapp.ap.hero.accuweather/.provider.accuweather.AccuContentProvider}
+    proc=ProcessRecord{44221470 1994:com.sec.android.widgetapp.ap.hero.accuweather/u0a122}
+    authority=com.sec.android.widgetapp.ap.hero.accuweather
+  * ContentProviderRecord{4589a250 u0 com.google.android.gms/.auth.api.credentials.be.persistence.TemporaryValueProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.auth.api.credentials.be.persistence.TemporaryValueProvider
+  * ContentProviderRecord{44430d10 u0 com.sec.android.daemonapp/.ap.common.WeatherContentProvider}
+    proc=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    authority=com.sec.android.daemonapp.ap.accuweather.provider
+  * ContentProviderRecord{43980120 u0 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{43968f48 1632:android.process.media/u0a30}
+    authority=com.android.providers.downloads.documents
+  * ContentProviderRecord{458d9830 u0 com.google.android.gms/com.google.android.libraries.social.autobackup.AutoBackupProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.photos.iu.EsGoogleIuProvider
+  * ContentProviderRecord{4370eac0 u0 com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.mini.download.DownloadProvider}
+    proc=ProcessRecord{442bf188 2758:sogou.mobile.explorer.hotwords/u0a157}
+    authority=sogou.mobile.explorer.hotwords.mini.download
+  * ContentProviderRecord{4435c350 u0 com.android.mms/.SuggestionsProvider}
+    proc=ProcessRecord{4469d860 2222:com.android.mms/u0a44}
+    authority=com.android.mms.SuggestionsProvider
+  * ContentProviderRecord{458d3500 u0 com.google.android.gms/.common.download.provider.DownloadsProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.download
+  * ContentProviderRecord{439b0730 u0 com.bst.airmessage/.db.AirMessageDBProvider}
+    proc=ProcessRecord{4426b168 2933:com.bst.airmessage/u0a2}
+    authority=com.bst.airmessage.db.AirMessageDBProvider
+  * ContentProviderRecord{45328cf0 u0 com.sina.weibo/.PictureListProvider}
+    proc=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    authority=com.sina.weibo.picListProvider
+  * ContentProviderRecord{449b92e8 u0 com.android.settings/.personalvibration.PersonalVibrationProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.personalvibration.PersonalVibrationProvider
+  * ContentProviderRecord{44374d30 u0 com.google.android.gms/.auth.be.AccountContentProvider}
+    proc=ProcessRecord{44f9c198 29096:com.google.android.gms.persistent/u0a46}
+    authority=com.google.android.gms.auth.accounts
+  * ContentProviderRecord{43941120 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderSNS}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.SNS
+  * ContentProviderRecord{45338510 u0 com.sina.weibo/.log.UserLogProvider}
+    proc=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    authority=com.sina.weibo.userlog
+  * ContentProviderRecord{4589e338 u0 com.ss.android.essay.joke/com.ss.android.common.util.MultiProcessSharedProvider}
+    proc=ProcessRecord{45314008 31910:com.ss.android.essay.joke:push/u0a139}
+    authority=com.ss.android.common.multiprocess.SHARE_PROVIDER_AUTHORITY7
+  * ContentProviderRecord{439d0d88 u0 com.android.providers.telephony/.SmsProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    authority=sms;spamsms
+  * ContentProviderRecord{441e8830 u0 com.android.contacts/com.samsung.dialer.calllog.LogsFindoSuggestionsProvider}
+    proc=ProcessRecord{438d7200 2220:com.android.contacts/u0a16}
+    authority=com.samsung.dialer.calllog.LogsFindoSuggestionsProvider
+  * ContentProviderRecord{44447a78 u0 com.tencent.mobileqq/cooperation.readinjoy.content.ReadInJoyDataProvider}
+    proc=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    authority=qq.readinjoy
+  * ContentProviderRecord{44204800 u0 com.shuame.mobile/.provider.RomProvider}
+    proc=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    authority=com.shuame.mobile
+  * ContentProviderRecord{45727808 u0 com.samsung.android.app.galaxyfinder/.tag.db.TagProvider}
+    proc=ProcessRecord{446845e0 12291:com.samsung.android.app.galaxyfinder:tagService/u0a27}
+    authority=com.samsung.android.app.galaxyfinder.tag
+  * ContentProviderRecord{42f1d1c8 u0 com.android.providers.calendar/.CalendarProvider2}
+    proc=ProcessRecord{441e60f0 20646:com.android.providers.calendar/u0a29}
+    launchingApp=ProcessRecord{441e60f0 20646:com.android.providers.calendar/u0a29}
+    authority=com.android.calendar
+  * ContentProviderRecord{45892968 u0 com.google.android.gms/.auth.CredentialStateContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.auth.confirm
+  * ContentProviderRecord{4528cd98 u0 com.android.calendar/.globalSearch.CalendarSuggestionsProvider}
+    proc=ProcessRecord{458aa6d0 20249:com.android.calendar/u0a85}
+    authority=com.sec.android.calendar.CalendarSuggestionsProvider
+  * ContentProviderRecord{439803c0 u0 com.android.providers.downloads.ui/.saveas.SecDownloadSaveasProvider}
+    proc=ProcessRecord{43968f48 1632:android.process.media/u0a30}
+    authority=downloadsaveas;sdownloadsaveas
+  * ContentProviderRecord{454a2d98 u0 com.sec.android.app.videoplayer/.db.AllShareProvider}
+    proc=ProcessRecord{442163e0 20692:com.sec.android.app.videoplayer/u0a36}
+    authority=com.sec.android.app.videoplayer.provider
+  * ContentProviderRecord{4588a280 u0 com.google.android.gms/.ads.adinfo.AdvertisingInfoContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.ads.adinfo
+  * ContentProviderRecord{438cc860 u0 com.vlingo.midas/com.vlingo.core.internal.contacts.contentprovider.ContactContentProvider}
+    proc=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    authority=com.vlingo.midas.contacts.contentprovider
+  * ContentProviderRecord{458ce018 u0 com.google.android.gms/.plus.provider.PlusProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.plus;com.google.android.gms.plus.action
+  * ContentProviderRecord{439d4060 u0 com.sec.android.app.launcher/com.android.launcher2.LauncherProviderID}
+    proc=ProcessRecord{439be828 1691:com.sec.android.app.launcher/u0a45}
+    authority=com.sec.android.app.launcher.settings.id
+  * ContentProviderRecord{439d0f50 u0 com.android.providers.telephony/.MmsSmsProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    authority=mms-sms
+  * ContentProviderRecord{4587ebf0 u0 com.google.android.gms/.games.provider.NotificationStubContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.games
+  * ContentProviderRecord{42cb91d8 u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    authority=call_log
+  * ContentProviderRecord{454a2c40 u0 com.sec.android.app.videoplayer/.videowall.ThumbProvider}
+    proc=ProcessRecord{442163e0 20692:com.sec.android.app.videoplayer/u0a36}
+    authority=com.sec.provider.videowall
+  * ContentProviderRecord{44446610 u0 com.tencent.mobileqq/com.tencent.common.config.provider.QZoneConfigProvider}
+    proc=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    authority=com.tencent.common.config.provider.QZoneConfigProvider
+  * ContentProviderRecord{45332760 u0 com.sina.weibo/.sync.stub.SyncStubProvider}
+    proc=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    authority=com.sina.weibo.sync.authority
+  * ContentProviderRecord{43435d00 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderMsg}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.message
+  * ContentProviderRecord{45316e20 u0 com.sina.weibo/.provider.SinaWeiboSPProvider}
+    proc=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    authority=com.sina.weibo.spProvider
+  * ContentProviderRecord{42cb8db0 u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    authority=com.android.voicemail
+  * ContentProviderRecord{44210110 u0 com.browser_llqhz/com.csipsimple.service.PreferenceProvider}
+    proc=ProcessRecord{439c5eb0 12181:com.browser_llqhz/u0a133}
+    authority=com.browser_llqhz.csipsimple.prefs
+  * ContentProviderRecord{4449a3e0 u0 com.google.android.gsf/.subscribedfeeds.SubscribedFeedsProvider}
+    proc=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    authority=subscribedfeeds
+  * ContentProviderRecord{44230b88 u0 com.browser_llqhz/com.browser2345.downloadprovider.downloads.DownloadProvider}
+    proc=ProcessRecord{439c5eb0 12181:com.browser_llqhz/u0a133}
+    authority=com.browser_llqhz.downloadprovider
+  * ContentProviderRecord{44430da8 u0 com.sec.android.daemonapp/.ap.cmaweather.common.CmaContentProvider}
+    proc=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    authority=com.sec.android.daemonapp.cmaweather.provider
+  * ContentProviderRecord{458cc628 u0 com.google.android.gms/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.photos.autobackup.debugfileprovider
+  * ContentProviderRecord{458c7148 u0 com.google.android.gms/.reminders.provider.RemindersProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.reminders
+  * ContentProviderRecord{4444eeb8 u0 com.sec.android.daemonapp/.ap.weathernewsjp.common.WeatherNewsContentProvider}
+    proc=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    authority=com.sec.android.daemonapp.ap.weathernewsjp.provider
+  * ContentProviderRecord{42cb8e48 u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{43980328 u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{43968f48 1632:android.process.media/u0a30}
+    authority=media
+    1 connections, 0 external handles
+      -> 20619:com.samsung.dcm:DCMService/u0a9 s1/1 u0/0 +38s210ms
+  * ContentProviderRecord{444422d8 u0 com.tencent.mobileqq/.content.FriendListProvider}
+    proc=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    authority=qq.friendlist
+  * ContentProviderRecord{43802a70 u0 com.samsung.android.snote/.control.ui.homescreenwidget.MagazineWidgetRotationProvider}
+    proc=ProcessRecord{43825d10 3450:com.samsung.android.snote/u0a129}
+    authority=com.samsung.android.snote.RotationProvider
+  * ContentProviderRecord{437486a8 u0 com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.mini.cloud.db.CloudProvider}
+    proc=ProcessRecord{442bf188 2758:sogou.mobile.explorer.hotwords/u0a157}
+    authority=sogou.mobile.explorer.hotwords.mini.cloud.db
+  * ContentProviderRecord{4438feb0 u0 com.osp.app.signin/com.osp.contentprovider.OSPContentProvider}
+    proc=ProcessRecord{4488a0a0 20288:com.osp.app.signin/u0a28}
+    authority=com.osp.contentprovider.ospcontentprovider
+  * ContentProviderRecord{44219098 u0 com.browser_llqhz/com.ixintui.push.Provider}
+    proc=ProcessRecord{439c5eb0 12181:com.browser_llqhz/u0a133}
+    authority=com.browser_llqhz.ixintui.push.provider
+  * ContentProviderRecord{439a72f8 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderSearchContact}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.SearchContact
+  * ContentProviderRecord{458c65f0 u0 com.google.android.gms/.chromesync.persistence.ContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.chromesync.persistence.provider
+  * ContentProviderRecord{4445e060 u0 com.tencent.mobileqq/com.tencent.mqq.shared_file_accessor.ContentProviderImpl}
+    proc=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    launchingApp=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    authority=com.tencent.mqq.shared_file_accessor.ContentProviderImpl
+  * ContentProviderRecord{439ceb20 u0 com.tencent.mm/.sdk.platformtools.MultiProcessSharedPreferences}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.sdk.platformtools.MultiProcessSharedPreferences
+  * ContentProviderRecord{4438ff48 u0 com.osp.app.signin/com.msc.openprovider.OpenContentProvider}
+    proc=ProcessRecord{4488a0a0 20288:com.osp.app.signin/u0a28}
+    authority=com.msc.openprovider.openContentProvider
+  * ContentProviderRecord{4505b868 u0 com.google.android.syncadapters.contacts/.GalProvider}
+    proc=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    authority=com.google.contacts.gal.provider
+  * ContentProviderRecord{439d0fe8 u0 com.android.providers.telephony/.NwkInfoProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    authority=nwkinfo
+  * ContentProviderRecord{4376ca40 u0 com.tencent.mm/.plugin.ext.provider.ExtControlProviderAccountSync}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.plugin.ext.AccountSync
+  * ContentProviderRecord{438b4560 u0 com.vlingo.midas/.provider.VlingoConfigProvider}
+    proc=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    authority=com.vlingo.client.vlingoconfigprovider
+  * ContentProviderRecord{443e3ae8 u0 com.sec.android.daemonapp/.ap.kweather.common.KWeatherContentProvider}
+    proc=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    authority=com.sec.android.daemonapp.ap.kweather.provider
+  * ContentProviderRecord{446ddd30 u0 com.samsung.dcm/com.sec.dcm.provider.DCMProvider}
+    proc=ProcessRecord{43886188 20619:com.samsung.dcm:DCMService/u0a9}
+    authority=com.sec.dcm.provider.DCMProvider.data
+  * ContentProviderRecord{458c0518 u0 com.google.android.gms/.icing.proxy.AppsContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.icing.proxy.apps
+  * ContentProviderRecord{439d3fc8 u0 com.sec.android.app.launcher/com.android.launcher2.LauncherProvider}
+    proc=ProcessRecord{439be828 1691:com.sec.android.app.launcher/u0a45}
+    authority=com.sec.android.app.launcher.settings
+  * ContentProviderRecord{45315478 u0 com.sina.weibo/.provider.SinaWeiboSdkProvider}
+    proc=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    authority=com.sina.weibo.sdkProvider
+  * ContentProviderRecord{45875430 u0 com.google.android.gms/.drive.metadata.sync.syncadapter.StubContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.drive.sync
+  * ContentProviderRecord{441e88f0 u0 com.android.contacts/com.samsung.dialer.calllog.LogsSuggestionsProvider}
+    proc=ProcessRecord{438d7200 2220:com.android.contacts/u0a16}
+    authority=com.samsung.dialer.calllog.LogsSuggestionsProvider
+  * ContentProviderRecord{454d63d8 u0 com.sec.android.app.videoplayer/.db.FinDoProvider}
+    proc=ProcessRecord{442163e0 20692:com.sec.android.app.videoplayer/u0a36}
+    launchingApp=ProcessRecord{442163e0 20692:com.sec.android.app.videoplayer/u0a36}
+    authority=com.sec.android.app.videoplayer.db.FinDoProvider
+  * ContentProviderRecord{43931328 u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    authority=user_dictionary
+  * ContentProviderRecord{44378900 u0 com.android.mms/com.samsung.mms.export.preference.PreferenceProviderExport}
+    proc=ProcessRecord{4469d860 2222:com.android.mms/u0a44}
+    authority=com.samsung.mms.export.preference.PreferenceProviderExport
+  * ContentProviderRecord{44307568 u0 com.google.android.gsf/.gservices.GservicesProvider}
+    proc=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    launchingApp=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    authority=com.google.android.gsf.gservices
+  * ContentProviderRecord{458c0450 u0 com.google.android.gms/.icing.proxy.SmsContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.icing.proxy.sms
+  * ContentProviderRecord{44256d50 u0 com.google.android.gms/.fitness.sync.FitnessContentProvider}
+    proc=ProcessRecord{44f9c198 29096:com.google.android.gms.persistent/u0a46}
+    authority=com.google.android.gms.fitness
+  * ContentProviderRecord{44829838 u0 com.taobao.taobao/com.taobao.tao.proxy.TBLocationContentProviderProxy}
+    proc=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    authority=com.taobao.passivelocation.provider.locations
+  * ContentProviderRecord{4385bed8 u0 com.sec.android.provider.logsprovider/.LogsProvider}
+    proc=ProcessRecord{42f52828 1893:com.sec.android.provider.logsprovider/u0a16}
+    launchingApp=ProcessRecord{42f52828 1893:com.sec.android.provider.logsprovider/u0a16}
+    authority=logs
+  * ContentProviderRecord{458b2f88 u0 com.google.android.gms/.common.stats.net.contentprovider.NetworkUsageContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.common.stats.net.contentprovider
+  * ContentProviderRecord{42cb8ee0 u0 com.android.providers.applications/.ApplicationsProvider}
+    proc=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    authority=applications
+  * ContentProviderRecord{44215b60 u0 com.browser_llqhz/com.browser2345.provider.BrowserProvider2}
+    proc=ProcessRecord{439c5eb0 12181:com.browser_llqhz/u0a133}
+    authority=com.browser_llqhz_phone;browser_llqhz_phone
+  * ContentProviderRecord{442bb0e8 u0 com.sohu.inputmethod.sogou/com.sogou.androidtool.sdk.downloads.DownloadProvider}
+    proc=ProcessRecord{44272148 2706:com.sohu.inputmethod.sogou/u0a157}
+    authority=sogou_sdk_downloads
+  * ContentProviderRecord{439d11e8 u0 com.android.providers.telephony/.ChannelsProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    authority=channels
+  * ContentProviderRecord{45864460 u0 com.google.android.gms/.auth.api.credentials.sync.CredentialContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.auth.api.credentials
+  * ContentProviderRecord{439d1280 u0 com.android.providers.telephony/.MmsProvider}
+    proc=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    authority=mms;spammms
+  * ContentProviderRecord{4531c718 u0 com.android.settings/.favorite.MySettingsProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.mysettings
+  * ContentProviderRecord{4528cd00 u0 com.android.calendar/.preference.PreferenceProvider}
+    proc=ProcessRecord{458aa6d0 20249:com.android.calendar/u0a85}
+    authority=com.sec.android.calendar.preference
+  * ContentProviderRecord{4420a6e8 u0 com.browser_llqhz/com.csipsimple.db.DBProvider}
+    proc=ProcessRecord{439c5eb0 12181:com.browser_llqhz/u0a133}
+    authority=com.browser_llqhz.csipsimple.db
+  * ContentProviderRecord{4531c798 u0 com.android.settings/.settingssearch.SettingsSearchConnectProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.settingssearchconnect.provider
+  * ContentProviderRecord{4531c830 u0 com.android.settings/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{44212420 20321:com.android.settings/1000}
+    authority=com.android.settings.files
+  * ContentProviderRecord{458afd98 u0 com.google.android.gms/.people.service.PeopleContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.people
+  * ContentProviderRecord{45861830 u0 com.google.android.gms/.chromesync.sync.SyncContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.chromesync
+  * ContentProviderRecord{4438ffe0 u0 com.osp.app.signin/com.msc.contentprovider.SamsungServiceProvider}
+    proc=ProcessRecord{4488a0a0 20288:com.osp.app.signin/u0a28}
+    authority=com.msc.contentprovider.provider.samsungServiceProvider
+  * ContentProviderRecord{458a1998 u0 com.google.android.gms/.appstate.provider.AppStateContentProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.appstate
+  * ContentProviderRecord{4505b900 u0 com.google.android.gsf/.talk.TalkProvider}
+    proc=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    authority=com.google.android.providers.talk
+  * ContentProviderRecord{44378978 u0 com.android.mms/.csc.PreferenceProvider}
+    proc=ProcessRecord{4469d860 2222:com.android.mms/u0a44}
+    authority=com.android.mms.csc.PreferenceProvider
+  * ContentProviderRecord{43878dc0 u0 com.hipu.yidian/com.igexin.download.DownloadProvider}
+    proc=ProcessRecord{4396c320 30648:com.hipu.yidian:pushservice/u0a155}
+    authority=downloads.com.hipu.yidian
+  * ContentProviderRecord{43980750 u0 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{43968f48 1632:android.process.media/u0a30}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{44717868 u0 com.ss.android.article.news/com.ss.android.common.util.MultiProcessSharedProvider}
+    proc=ProcessRecord{446ab738 31844:com.ss.android.article.news:push/u0a138}
+    authority=com.ss.android.common.multiprocess.SHARE_PROVIDER_AUTHORITY143
+  * ContentProviderRecord{44441cf0 u0 com.tencent.mobileqq/.openapi.OpenApiProvider}
+    proc=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    authority=com.tencent.mobileqq.openapi.provider
+  * ContentProviderRecord{4351c448 u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    launchingApp=ProcessRecord{437412f0 1933:android.process.acore/u0a16}
+    authority=contacts;com.android.contacts;com.android.jcontacts;com.samsung.contacts
+  * ContentProviderRecord{4585f370 u0 com.google.android.gms/.people.debug.PeopleExportProvider}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.people.export
+  * ContentProviderRecord{43940b58 u0 com.sina.weibo/com.sina.push.datacenter.PushProvider}
+    proc=ProcessRecord{44202968 32293:com.sina.weibo:remote/u0a150}
+    launchingApp=ProcessRecord{44202968 32293:com.sina.weibo:remote/u0a150}
+    authority=com.sina.push.pushprovider.1004
+  * ContentProviderRecord{43435d78 u0 com.tencent.mm/.plugin.base.stub.MMPluginProvider}
+    proc=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    authority=com.tencent.mm.sdk.plugin.provider
+  * ContentProviderRecord{438e4fb8 u0 com.vlingo.midas/.provider.WakeupProvider}
+    proc=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    authority=content.wakeup.provider
+  * ContentProviderRecord{44430be0 u0 com.sec.android.daemonapp/.ap.yahoostock.stockclock.db.PublicContentProvider}
+    proc=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    authority=com.sec.android.daemonapp.ap.yahoostock.stockclock
+  * ContentProviderRecord{4589d198 u0 com.google.android.gms/.games.chimera.GamesContentProviderProxy}
+    proc=ProcessRecord{43796e00 20432:com.google.android.gms/u0a46}
+    authority=com.google.android.gms.games.background
+
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{4373f8d8 u0 com.samsung.android.snote/.control.ui.homescreenwidget.HomescreenWidgetProvider$HomescreenWidgetService}
+    app=ProcessRecord{43825d10 3450:com.samsung.android.snote/u0a129}
+    created=-7h0m44s363ms started=true connections=0
+  * ServiceRecord{45332538 u0 com.bst.airmessage/.host.AirMessageService}
+    app=ProcessRecord{4426b168 2933:com.bst.airmessage/u0a2}
+    created=-3h15m18s93ms started=false connections=1
+    Connections:
+      act=com.bst.airmessage.BINDE_SERVICE -> 2222:com.android.mms/u0a44
+  * ServiceRecord{45905410 u0 com.taobao.taobao/org.android.agoo.accs.AgooService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m22s461ms started=true connections=0
+  * ServiceRecord{44451400 u0 com.ss.android.article.news/com.ss.android.message.NotifyService}
+    app=ProcessRecord{446ab738 31844:com.ss.android.article.news:push/u0a138}
+    created=-1h24m50s457ms started=true connections=0
+  * ServiceRecord{43757798 u0 com.samsung.android.sdk.professionalaudio.utility.jammonitor/.JamMonitorService}
+    app=null
+    created=-7h0m44s379ms started=false connections=0
+  * ServiceRecord{44271788 u0 com.sohu.inputmethod.sogou/.SogouIME}
+    app=ProcessRecord{44272148 2706:com.sohu.inputmethod.sogou/u0a157}
+    created=-7h0m51s558ms started=false connections=1
+    Connections:
+      act=android.view.InputMethod -> 900:system/1000
+  * ServiceRecord{44487a78 u0 com.shuame.mobile/.service.PushNotificationService}
+    app=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    created=-7h0m38s886ms started=true connections=0
+  * ServiceRecord{43963808 u0 com.qualcomm.location/.LocationService}
+    app=ProcessRecord{4357e508 900:system/1000}
+    created=-7h0m56s725ms started=true connections=0
+  * ServiceRecord{457a0ee0 u0 com.taobao.taobao/mtopsdk.xstate.XStateService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m27s604ms started=false connections=2
+    Connections:
+      act=mtopsdk.xstate.aidl.IXState pkg=com.taobao.taobao -> 1043:com.taobao.taobao/u0a149
+      act=mtopsdk.xstate.aidl.IXState pkg=com.taobao.taobao -> 1019:com.taobao.taobao:channel/u0a149
+  * ServiceRecord{42f73148 u0 com.sec.android.daemonapp/.ap.accuweather.WeatherClockService}
+    app=ProcessRecord{4422ad80 27586:com.sec.android.daemonapp/u0a123}
+    created=-7h0m44s120ms started=true connections=0
+  * ServiceRecord{43792330 u0 com.google.android.backuptransport/com.google.android.backup.BackupTransportService}
+    app=ProcessRecord{434e6880 2137:com.google.process.location/u0a46}
+    created=-7h0m58s403ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 900:system/1000
+  * ServiceRecord{43915e88 u0 com.android.phone/.BluetoothPhoneService}
+    app=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    created=-7h0m55s711ms started=true connections=1
+    Connections:
+       -> 1671:com.android.phone/1001
+  * ServiceRecord{4499b978 u0 com.ss.android.essay.joke/com.ss.android.message.NotifyService}
+    app=ProcessRecord{45314008 31910:com.ss.android.essay.joke:push/u0a139}
+    created=-1h24m46s859ms started=true connections=0
+  * ServiceRecord{44276108 u0 com.shuame.mobile/com.tencent.android.tpush.service.XGPushService}
+    app=ProcessRecord{44291ce8 3582:com.shuame.mobile:xg_service_v2/u0a135}
+    created=-7h0m43s294ms started=true connections=0
+  * ServiceRecord{438cc520 u0 com.taobao.taobao/com.taobao.orange.service.OrangeApiService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m27s600ms started=false connections=2
+    Connections:
+      act=com.taobao.orange.service.OrangeApiService cat=[android.intent.category.DEFAULT] -> 1043:com.taobao.taobao/u0a149
+      act=com.taobao.orange.service.OrangeApiService cat=[android.intent.category.DEFAULT] -> 1019:com.taobao.taobao:channel/u0a149
+  * ServiceRecord{43912d08 u0 com.android.systemui/.ImageWallpaper}
+    app=ProcessRecord{43881ef0 1427:com.android.systemui/u0a15}
+    created=-7h0m57s351ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 900:system/1000
+  * ServiceRecord{4427fd80 u0 com.shuame.mobile/.module.optimize.notification.BackCheckService}
+    app=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    created=-7h0m41s994ms started=true connections=0
+  * ServiceRecord{45878240 u0 com.taobao.taobao/com.taobao.accs.ChannelService}
+    app=ProcessRecord{442d3a20 1019:com.taobao.taobao:channel/u0a149}
+    created=-1h22m28s571ms started=true connections=0
+  * ServiceRecord{44a3daf8 u0 com.google.android.gms/.gcm.GcmService}
+    app=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    created=-1h30m52s402ms started=true connections=0
+  * ServiceRecord{4440e998 u0 com.samsung.SMT/.SamsungTTSService}
+    app=ProcessRecord{44412bd0 5189:com.samsung.SMT/1000}
+    created=-7h0m27s471ms started=false connections=1
+    Connections:
+      act=android.intent.action.TTS_SERVICE pkg=com.samsung.SMT -> 5129:com.vlingo.midas/u0a128
+  * ServiceRecord{442c9020 u0 com.tencent.mm/.booter.NotifyReceiver$NotifyService}
+    app=ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    created=-6h59m45s26ms started=true connections=0
+  * ServiceRecord{44453db0 u0 com.samsung.android.app.pinboard/.service.LocationTagService}
+    app=ProcessRecord{4441d9b8 7532:com.samsung.android.app.pinboard:LocationTagService/u0a25}
+    created=-6h59m47s113ms started=true connections=0
+  * ServiceRecord{44a1f080 u0 com.samsung.android.app.pinboard/com.sec.android.sCloudRelayData.RelayService}
+    app=ProcessRecord{42eaf600 20455:com.samsung.android.app.pinboard:sync/u0a25}
+    created=-6h10m30s103ms started=true connections=0
+  * ServiceRecord{44349bb0 u0 com.youxinpai.carcollect/io.rong.imlib.ipc.RongService}
+    app=ProcessRecord{44704e68 29572:com.youxinpai.carcollect:ipc/u0a167}
+    created=-1h30m31s449ms started=false connections=1
+    Connections:
+       -> 29556:com.youxinpai.carcollect/u0a167
+  * ServiceRecord{44484c58 u0 com.bst.airmessage/.AirMsgUiService}
+    app=ProcessRecord{4426b168 2933:com.bst.airmessage/u0a2}
+    created=-7h0m38s879ms started=true connections=0
+  * ServiceRecord{438f8538 u0 com.android.phone/.BluetoothVoIPService}
+    app=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    created=-7h0m55s706ms started=true connections=1
+    Connections:
+       -> 1671:com.android.phone/1001
+  * ServiceRecord{442963b0 u0 com.shuame.mobile/.module.optimize.manager.power.PowerCoreService}
+    app=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    created=-7h0m42s42ms started=true connections=1
+    Connections:
+       -> 3649:com.shuame.mobile/u0a135
+  * ServiceRecord{438817d0 u0 com.android.keyguard/.KeyguardService}
+    app=ProcessRecord{43881ef0 1427:com.android.systemui/u0a15}
+    created=-7h0m58s45ms started=false connections=2
+    Connections:
+       -> 900:system/1000
+       -> 1427:com.android.systemui/u0a15
+  * ServiceRecord{458c6968 u0 com.uxin.usedcar/com.baidu.location.f}
+    app=ProcessRecord{443a70e8 29787:com.uxin.usedcar:remote/u0a166}
+    created=-1h30m27s793ms started=false connections=4
+    Connections:
+       -> 29787:com.uxin.usedcar:remote/u0a166
+       -> 29898:com.uxin.usedcar:push/u0a166
+       -> 10206:com.uxin.usedcar:ipc/u0a166
+       -> 10114:com.uxin.usedcar/u0a166
+  * ServiceRecord{439b9320 u0 org.simalliance.openmobileapi.service/.SmartcardService}
+    app=ProcessRecord{4397e1f8 1803:org.simalliance.openmobileapi.service:remote/1101}
+    created=-7h0m56s513ms started=true connections=1
+    Connections:
+      act=org.simalliance.openmobileapi.service.ISmartcardService -> 1684:com.android.nfc/1027
+  * ServiceRecord{4399d910 u0 com.qualcomm.location/.GeoFenceService}
+    app=ProcessRecord{4357e508 900:system/1000}
+    created=-7h0m57s215ms started=false connections=1
+    Connections:
+      act=com.qualcomm.location -> 900:system/1000
+  * ServiceRecord{45459890 u0 com.youxinpai.carcollect/io.rong.push.PushService}
+    app=ProcessRecord{4482ded0 29585:io.rong.push/u0a167}
+    created=-1h30m11s444ms started=true connections=0
+  * ServiceRecord{4388ae50 u0 com.samsung.android.fingerprint.service/.FingerprintServiceStarter}
+    app=ProcessRecord{4388b868 1450:com.samsung.android.fingerprint.service/1000}
+    created=-7h0m57s962ms started=true connections=0
+  * ServiceRecord{441f8768 u0 com.android.bluetooth/.pbap.BluetoothPbapService}
+    app=null
+    created=-7h0m52s148ms started=false connections=0
+  * ServiceRecord{442be260 u0 com.shuame.mobile/.module.optimize.service.MyTMSSecureService}
+    app=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    created=-7h0m42s51ms started=true connections=0
+  * ServiceRecord{45941818 u0 com.samsung.dcm/.framework.FrameworkService}
+    app=ProcessRecord{43886188 20619:com.samsung.dcm:DCMService/u0a9}
+    created=-31s828ms started=true connections=0
+  * ServiceRecord{441d7ad0 u0 com.samsung.inputmethod/.service.ui.SimeUIService}
+    app=ProcessRecord{4384e3d8 2966:com.samsung.inputmethod/1000}
+    created=-7h0m49s723ms started=false connections=1
+    Connections:
+      act=com.samsung.inputmethod.service.ui.ISamsungIMEUIService -> 2933:com.bst.airmessage/u0a2
+  * ServiceRecord{458b1208 u0 com.tencent.mobileqq/.app.CoreService$KernelService}
+    app=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    created=-9m58s553ms started=true connections=0
+  * ServiceRecord{458d0d78 u0 com.uxin.usedcar/.app.service.UxinService}
+    app=ProcessRecord{44a354a8 10114:com.uxin.usedcar/u0a166}
+    created=-1h30m27s831ms started=true connections=0
+  * ServiceRecord{45416c88 u0 com.hipu.yidian/com.xiaomi.push.service.XMPushService}
+    app=ProcessRecord{4396c320 30648:com.hipu.yidian:pushservice/u0a155}
+    created=-1h28m44s116ms started=true connections=0
+  * ServiceRecord{444ba598 u0 com.tencent.mm/.booter.CoreService}
+    app=ProcessRecord{42cb8af8 5520:com.tencent.mm:push/u0a145}
+    created=-7h0m23s366ms started=true connections=1
+    Connections:
+       -> 6399:com.tencent.mm/u0a145
+  * ServiceRecord{439d91e8 u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=null
+    created=-7h0m39s782ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothA2dp -> 900:system/1000
+  * ServiceRecord{458e1a18 u0 com.tencent.mobileqq/.app.CoreService}
+    app=ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+    created=-9m58s565ms started=true connections=0
+  * ServiceRecord{4567df30 u0 com.hipu.yidian/com.igexin.sdk.PushService}
+    app=ProcessRecord{4396c320 30648:com.hipu.yidian:pushservice/u0a155}
+    created=-1h28m44s745ms started=true connections=0
+  * ServiceRecord{457a7770 u0 com.android.exchange/.SmsRelayService}
+    app=ProcessRecord{4422f7e0 20027:com.android.exchange/u0a127}
+    created=-1h54m45s414ms started=true connections=0
+  * ServiceRecord{4444a4a0 u0 com.samsung.sec.android.application.csc/.CscUpdateService}
+    app=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    created=-7h0m38s727ms started=true connections=0
+  * ServiceRecord{44805688 u0 com.baidu.map.location/com.baidu.location.f}
+    app=ProcessRecord{4470c400 8166:com.baidu.map.location/u0a121}
+    created=-6h59m35s250ms started=false connections=1
+    Connections:
+       -> 8166:com.baidu.map.location/u0a121
+  * ServiceRecord{443d2730 u0 com.uxin.usedcar/io.rong.imlib.ipc.RongService}
+    app=ProcessRecord{45076a98 10206:com.uxin.usedcar:ipc/u0a166}
+    created=-52m53s438ms started=false connections=1
+    Connections:
+       -> 10114:com.uxin.usedcar/u0a166
+  * ServiceRecord{43827b58 u0 com.android.systemui/.SystemUIService}
+    app=ProcessRecord{43881ef0 1427:com.android.systemui/u0a15}
+    created=-7h0m57s964ms started=true connections=0
+  * ServiceRecord{43993478 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{4357e508 900:system/1000}
+    created=-7h0m57s221ms started=false connections=1
+    Connections:
+       -> 900:system/1000
+  * ServiceRecord{45818720 u0 com.taobao.taobao/com.taobao.wswitch.service.ConfigCenterService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m27s850ms started=false connections=2
+    Connections:
+      act=com.taobao.wswitch.api.service.IConfigCenterService pkg=com.taobao.taobao -> 1019:com.taobao.taobao:channel/u0a149
+      act=com.taobao.wswitch.api.service.IConfigCenterService pkg=com.taobao.taobao -> 1043:com.taobao.taobao/u0a149
+  * ServiceRecord{4470bbf0 u0 com.baidu.map.location/.BaiduNetworkLocationService}
+    app=ProcessRecord{4470c400 8166:com.baidu.map.location/u0a121}
+    created=-6h59m35s429ms started=false connections=2
+    Connections:
+      act=com.android.location.service.v3.NetworkLocationProvider pkg=com.baidu.map.location -> 900:system/1000
+      act=com.android.location.service.GeocodeProvider pkg=com.baidu.map.location -> 900:system/1000
+  * ServiceRecord{444b76a0 u0 com.sec.android.pagebuddynotisvc/.PageBuddyNotiSvc}
+    app=ProcessRecord{4382c158 2173:com.sec.android.pagebuddynotisvc/u0a22}
+    created=-7h0m37s300ms started=true connections=0
+  * ServiceRecord{449a2288 u0 com.sina.weibo/com.sina.push.service.SinaPushService}
+    app=ProcessRecord{44202968 32293:com.sina.weibo:remote/u0a150}
+    created=-1h24m7s351ms started=true connections=0
+  * ServiceRecord{45811bb0 u0 com.samsung.android.MtpApplication/.MtpService}
+    app=ProcessRecord{4590da40 11027:com.samsung.android.MtpApplication/1000}
+    created=-2h16m15s381ms started=true connections=0
+  * ServiceRecord{456ae470 u0 com.samsung.android.app.galaxyfinder/.tag.TagReadyService}
+    app=ProcessRecord{446845e0 12291:com.samsung.android.app.galaxyfinder:tagService/u0a27}
+    created=-6h10m40s956ms started=true connections=0
+  * ServiceRecord{458e5b80 u0 com.uxin.goodcar/io.rong.imlib.ipc.RongService}
+    app=ProcessRecord{45624e70 11781:com.uxin.goodcar:ipc/u0a169}
+    created=-51m42s480ms started=false connections=1
+    Connections:
+       -> 11229:com.uxin.goodcar/u0a169
+       -> 11229:com.uxin.goodcar/u0a169
+  * ServiceRecord{439a7b58 u0 com.shuame.mobile/com.qq.e.comm.DownloadService}
+    app=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    created=-1h31m55s294ms started=true connections=0
+  * ServiceRecord{457fedb0 u0 com.eg.android.AlipayGphone/com.alipay.pushsdk.push.NotificationService}
+    app=ProcessRecord{44396258 1281:com.eg.android.AlipayGphone:push/u0a151}
+    created=-1h22m26s526ms started=true connections=0
+  * ServiceRecord{43890fd0 u0 com.browser_llqhz/com.ixintui.push.PushService}
+    app=ProcessRecord{443f8138 5323:com.browser_llqhz:ixintui_service_v1/u0a133}
+    created=-7h0m26s196ms started=true connections=0
+  * ServiceRecord{444487b8 u0 com.vlingo.midas/com.samsung.alwaysmicon.AlwaysMicOnService}
+    app=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    created=-7h0m27s642ms started=true connections=0
+  * ServiceRecord{44279840 u0 com.shuame.mobile/.module.backup.service.BackupService}
+    app=ProcessRecord{438b80e0 3649:com.shuame.mobile/u0a135}
+    created=-7h0m40s939ms started=true connections=1
+    Connections:
+       -> 3649:com.shuame.mobile/u0a135
+  * ServiceRecord{44442150 u0 android/com.android.server.DrmEventService}
+    app=ProcessRecord{4357e508 900:system/1000}
+    created=-7h0m39s202ms started=true connections=0
+  * ServiceRecord{438f31d0 u0 com.samsung.android.app.gestureservice/.GestureService}
+    app=ProcessRecord{437b5530 1906:com.samsung.android.app.gestureservice/1000}
+    created=-7h0m55s700ms started=false connections=1
+    Connections:
+       -> 1691:com.sec.android.app.launcher/u0a45
+  * ServiceRecord{4580fdd0 u0 com.android.providers.media/.MtpService}
+    app=ProcessRecord{43968f48 1632:android.process.media/u0a30}
+    created=-2h16m15s343ms started=true connections=1
+    Connections:
+       -> 1632:android.process.media/u0a30
+  * ServiceRecord{455a4230 u0 com.google.android.gms/.deviceconnection.service.DeviceConnectionServiceBroker}
+    app=ProcessRecord{44f9c198 29096:com.google.android.gms.persistent/u0a46}
+    created=-1h30m51s717ms started=true connections=0
+  * ServiceRecord{437f1170 u0 com.android.bluetooth/.hfp.HeadsetService}
+    app=ProcessRecord{435974f8 1915:com.android.bluetooth/1002}
+    created=-7h0m55s689ms started=false connections=6
+    Connections:
+      act=android.bluetooth.IBluetoothHeadset -> 1671:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 1671:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 900:system/1000
+      act=android.bluetooth.IBluetoothHeadset -> 1671:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 1671:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 1671:com.android.phone/1001
+  * ServiceRecord{439de7d0 u0 com.samsung.android.providers.context/.ContextService}
+    app=ProcessRecord{438f6a08 2249:com.samsung.android.providers.context/1000}
+    created=-7h0m52s919ms started=true connections=0
+  * ServiceRecord{4426c528 u0 com.sec.android.app.SPenKeeper/.SPenKeeperService}
+    app=ProcessRecord{443c05f0 4891:com.sec.android.app.SPenKeeper/u0a83}
+    created=-7h0m31s25ms started=true connections=0
+  * ServiceRecord{455fa138 u0 com.hipu.yidian/com.igexin.sdk.PushServiceUser}
+    app=ProcessRecord{439abc20 30671:com.hipu.yidian/u0a155}
+    created=-1h28m44s467ms started=false connections=1
+    Connections:
+       -> 30648:com.hipu.yidian:pushservice/u0a155
+  * ServiceRecord{43978ea8 u0 com.vlingo.midas/com.vlingo.core.internal.lmtt.LMTTService}
+    app=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    created=-7h0m27s417ms started=true connections=0
+  * ServiceRecord{45791910 u0 com.samsung.inputmethod/.dbmanager.autoupdate.SimeDbAutoUpdateService}
+    app=ProcessRecord{4384e3d8 2966:com.samsung.inputmethod/1000}
+    created=-5h31m31s645ms started=true connections=0
+  * ServiceRecord{4387bdf8 u0 android/com.android.internal.backup.LocalTransportService}
+    app=ProcessRecord{4357e508 900:system/1000}
+    created=-7h0m58s404ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 900:system/1000
+  * ServiceRecord{4425b5a8 u0 com.sina.weibo/.weiyou.refactor.service.DMService}
+    app=ProcessRecord{438d4678 32198:com.sina.weibo/u0a150}
+    created=-1h24m5s530ms started=true connections=0
+  * ServiceRecord{45878030 u0 com.taobao.taobao/com.alibaba.mtl.appmonitor.AppMonitorService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m28s274ms started=false connections=2
+    Connections:
+       -> 1043:com.taobao.taobao/u0a149
+       -> 1019:com.taobao.taobao:channel/u0a149
+  * ServiceRecord{45940798 u0 com.google.android.gms/.clearcut.service.ClearcutLoggerService}
+    app=ProcessRecord{454e57b0 29045:com.google.process.gapps/u0a46}
+    created=-1h30m51s291ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.clearcut.service.START pkg=com.google.android.gms -> 29045:com.google.process.gapps/u0a46
+  * ServiceRecord{4436b000 u0 com.taobao.taobao/com.taobao.accs.data.MsgDistributeService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m26s144ms started=true connections=0
+  * ServiceRecord{441e49e0 u0 com.sec.android.sviewcover/.SViewCoverBaseService}
+    app=ProcessRecord{43740728 2116:com.sec.android.sviewcover/u0a15}
+    created=-7h0m53s924ms started=false connections=1
+    Connections:
+       -> 900:system/1000
+  * ServiceRecord{457e2440 u0 com.taobao.taobao/com.taobao.tao.log.collect.AccsTlogService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m26s136ms started=true connections=0
+  * ServiceRecord{444063d8 u0 com.samsung.sec.android.application.csc/.CscModemSettingService}
+    app=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    created=-6h59m56s810ms started=true connections=0
+  * ServiceRecord{44242b68 u0 com.samsung.android.app.galaxyfinder/.tag.LocationTagReadyService}
+    app=ProcessRecord{446845e0 12291:com.samsung.android.app.galaxyfinder:tagService/u0a27}
+    created=-6h50m43s767ms started=true connections=0
+  * ServiceRecord{439795d8 u0 com.cmbchina.ccd.pluto.cmbActivity/com.gieseckedevrient.android.pushclient.HcePushService}
+    app=ProcessRecord{443805c0 31653:com.cmbchina.ccd.pluto.cmbActivity:push/u0a137}
+    created=-1h25m40s908ms started=true connections=0
+  * ServiceRecord{458d0368 u0 com.sec.android.widgetapp.ap.hero.accuweather/.SurfaceWidgetWeather}
+    app=ProcessRecord{44221470 1994:com.sec.android.widgetapp.ap.hero.accuweather/u0a122}
+    created=-4h8m38s854ms started=false connections=1
+    Connections:
+       -> 1691:com.sec.android.app.launcher/u0a45
+  * ServiceRecord{458a8de8 u0 com.autonavi.minimap/com.taobao.agoo.PushService}
+    app=ProcessRecord{4381d370 32005:com.autonavi.minimap:push/u0a148}
+    created=-1h24m38s125ms started=true connections=0
+  * ServiceRecord{4420bd08 u0 com.taobao.taobao/com.taobao.tao.calendar.alarm.CalendarAlarmService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-51s412ms started=true connections=0
+  * ServiceRecord{446deb68 u0 com.taobao.taobao/anetwork.channel.aidl.NetworkService}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-1h22m26s282ms started=false connections=2
+    Connections:
+      act=anetwork.channel.aidl.IRemoteNetworkGetter pkg=com.taobao.taobao -> 1019:com.taobao.taobao:channel/u0a149
+      act=anetwork.channel.aidl.IRemoteNetworkGetter pkg=com.taobao.taobao -> 1043:com.taobao.taobao/u0a149
+  * ServiceRecord{4396e998 u0 com.android.bluetooth/.map.BluetoothMapService}
+    app=null
+    created=-7h0m52s236ms started=false connections=0
+  * ServiceRecord{43818b38 u0 com.android.settings/.settingssearch.SettingsSearchIccLockStateService}
+    app=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    created=-7h0m33s966ms started=true connections=0
+  * ServiceRecord{438e72b0 u0 com.vlingo.midas/com.vlingo.core.internal.safereader.SafeReaderService}
+    app=ProcessRecord{4385ddc8 5129:com.vlingo.midas/u0a128}
+    created=-7h0m27s692ms started=true connections=1
+    Connections:
+       -> 5129:com.vlingo.midas/u0a128
+  * ServiceRecord{4483de28 u0 com.youxinpai.carcollect/com.youxinpai.service.LocationService}
+    app=ProcessRecord{446da2d0 29556:com.youxinpai.carcollect/u0a167}
+    created=-1h30m10s628ms started=true connections=0
+  * ServiceRecord{446d73a8 u0 com.taobao.taobao/com.taobao.tao.aidl.CalendarServiceImpl}
+    app=ProcessRecord{4434c428 1043:com.taobao.taobao/u0a149}
+    created=-51s426ms started=false connections=1
+    Connections:
+      act=com.taobao.calendar.aidl.service.ICalendarService pkg=com.taobao.taobao -> 1043:com.taobao.taobao/u0a149
+  * ServiceRecord{4399faa8 u0 com.android.phone/.TelephonyDebugService}
+    app=ProcessRecord{439a53b0 1671:com.android.phone/1001}
+    created=-7h0m55s778ms started=true connections=0
+  * ServiceRecord{44496b58 u0 com.cmbchina.ccd.pluto.cmbActivity/com.igexin.sdk.PushService}
+    app=ProcessRecord{44378120 31599:com.cmbchina.ccd.pluto.cmbActivity:pushservice/u0a137}
+    created=-1h25m43s132ms started=true connections=0
+  * ServiceRecord{438e5b98 u0 com.android.bluetooth/com.broadcom.bt.service.sap.SapService}
+    app=null
+    created=-7h0m52s27ms started=false connections=0
+  * ServiceRecord{439ccaf8 u0 com.tencent.mobileqq/.msf.service.MsfService}
+    app=ProcessRecord{439b68e0 3607:com.tencent.mobileqq:MSF/u0a146}
+    created=-7h0m42s974ms started=true connections=1
+    Connections:
+       -> 27878:com.tencent.mobileqq/u0a146
+  * ServiceRecord{43528460 u0 com.android.bluetooth/.pan.PanService}
+    app=null
+    created=-7h0m58s762ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothPan -> 900:system/1000
+  * ServiceRecord{443f5b60 u0 com.android.de/.MeSyncService}
+    app=ProcessRecord{44451878 5009:com.android.de/u0a108}
+    created=-7h0m29s583ms started=true connections=0
+  * ServiceRecord{453afab0 u0 com.uxin.usedcar/com.umeng.message.UmengService}
+    app=ProcessRecord{449cedb8 29898:com.uxin.usedcar:push/u0a166}
+    created=-1h30m11s588ms started=true connections=0
+
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+  Stack #0 [Hidden] id=0:
+    Task id #49
+      TaskRecord{45720b90 #49 A=android.task.mms U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.mms/.ui.ConversationComposer }
+        Hist #0: ActivityRecord{4381dff8 u0 com.android.mms/.ui.ConversationComposer t49}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.mms/.ui.ConversationComposer bnds=[432,1599][648,1875] }
+          ProcessRecord{4469d860 2222:com.android.mms/u0a44}
+    Task id #8
+      TaskRecord{449b4370 #8 A=com.tencent.mm U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10400000 cmp=com.tencent.mm/.ui.LauncherUI }
+        Hist #0: ActivityRecord{449b0118 u0 com.tencent.mm/.ui.LauncherUI t8}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.tencent.mm/.ui.LauncherUI bnds=[278,780][533,1110] }
+          ProcessRecord{43979288 6399:com.tencent.mm/u0a145}
+    Task id #13
+      TaskRecord{457b2b88 #13 A=com.tencent.mobileqq U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10600000 cmp=com.tencent.mobileqq/.activity.SplashActivity }
+        Hist #0: ActivityRecord{4427dea0 u0 com.tencent.mobileqq/.activity.SplashActivity t13}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mobileqq/.activity.SplashActivity bnds=[548,780][803,1110] }
+          ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+
+  Stack #1 [Home] id=1:
+    Task id #1
+      TaskRecord{439bd8f0 #1 A=com.sec.android.app.launcher U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10e00000 cmp=com.sec.android.app.launcher/com.android.launcher2.Launcher }
+        Hist #0: ActivityRecord{439ba360 u0 com.sec.android.app.launcher/com.android.launcher2.Launcher t1}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.sec.android.app.launcher/com.android.launcher2.Launcher }
+          ProcessRecord{439be828 1691:com.sec.android.app.launcher/u0a45}
+
+    Running activities (most recent first):
+      TaskRecord{439bd8f0 #1 A=com.sec.android.app.launcher U=0 sz=1}
+        Run #0: ActivityRecord{439ba360 u0 com.sec.android.app.launcher/com.android.launcher2.Launcher t1}
+
+  Stack #2 [Normal] id=9:
+    Task id #12
+      TaskRecord{44a0b7a0 #12 A=android.task.camera U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.sec.android.app.camera/.Camera }
+        Hist #0: ActivityRecord{4581a010 u0 com.sec.android.app.camera/.Camera t12}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.sec.android.app.camera/.Camera bnds=[278,1125][533,1455] }
+          ProcessRecord{449c46a0 27470:com.sec.android.app.camera/u0a88}
+
+    Running activities (most recent first):
+      TaskRecord{44a0b7a0 #12 A=android.task.camera U=0 sz=1}
+        Run #0: ActivityRecord{4581a010 u0 com.sec.android.app.camera/.Camera t12}
+
+  Stack #3 [Normal] id=53:
+    Task id #50
+      TaskRecord{44f70220 #50 A=com.youxinpai.carcollect U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.youxinpai.carcollect/.SplashActivity bnds=[864,867][1080,1191] }
+        Hist #1: ActivityRecord{4528bdf0 u0 com.youxinpai.carcollect/.SKUSelectDealerActivity t50}
+          Intent { cmp=com.youxinpai.carcollect/.SKUSelectDealerActivity }
+          ProcessRecord{446da2d0 29556:com.youxinpai.carcollect/u0a167}
+        Hist #0: ActivityRecord{454d5ec0 u0 com.youxinpai.carcollect/.HomeActivity t50}
+          Intent { cmp=com.youxinpai.carcollect/.HomeActivity }
+          ProcessRecord{446da2d0 29556:com.youxinpai.carcollect/u0a167}
+
+    Running activities (most recent first):
+      TaskRecord{44f70220 #50 A=com.youxinpai.carcollect U=0 sz=2}
+        Run #1: ActivityRecord{4528bdf0 u0 com.youxinpai.carcollect/.SKUSelectDealerActivity t50}
+        Run #0: ActivityRecord{454d5ec0 u0 com.youxinpai.carcollect/.HomeActivity t50}
+
+  Stack #4 [Normal] id=61:
+    Task id #57
+      TaskRecord{455b90d8 #57 A=com.uxin.goodcar U=0 sz=2}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.uxin.goodcar/.activity.LoadingActivity }
+        Hist #1: ActivityRecord{45078360 u0 com.uxin.goodcar/.activity.ConsumeAdviseActiivty t57}
+          Intent { cmp=com.uxin.goodcar/.activity.ConsumeAdviseActiivty (has extras) }
+          ProcessRecord{43763a70 11229:com.uxin.goodcar/u0a169}
+        Hist #0: ActivityRecord{4561cdf8 u0 com.uxin.goodcar/.activity.HomeActivity t57}
+          Intent { cmp=com.uxin.goodcar/.activity.HomeActivity (has extras) }
+          ProcessRecord{43763a70 11229:com.uxin.goodcar/u0a169}
+
+    Running activities (most recent first):
+      TaskRecord{455b90d8 #57 A=com.uxin.goodcar U=0 sz=2}
+        Run #1: ActivityRecord{45078360 u0 com.uxin.goodcar/.activity.ConsumeAdviseActiivty t57}
+        Run #0: ActivityRecord{4561cdf8 u0 com.uxin.goodcar/.activity.HomeActivity t57}
+
+    mResumedActivity: ActivityRecord{45078360 u0 com.uxin.goodcar/.activity.ConsumeAdviseActiivty t57}
+
+  mFocusedActivity: ActivityRecord{45078360 u0 com.uxin.goodcar/.activity.ConsumeAdviseActiivty t57}
+  mDismissKeyguardOnNextActivity=false
+  mFocusedStack=ActivityStack{4584ba18 stackId=61, 1 tasks} mStackState=STACK_STATE_HOME_IN_BACK
+  mNonFloatingFocusedStack=ActivityStack{4584ba18 stackId=61, 1 tasks}
+  mSleepTimeout=false
+  mCurTaskId=57
+  mUserStackInFront={}
+
+  Recent tasks:
+  * Recent #0: TaskRecord{455b90d8 #57 A=com.uxin.goodcar U=0 sz=2}
+  * Recent #1: TaskRecord{439bd8f0 #1 A=com.sec.android.app.launcher U=0 sz=1}
+  * Recent #2: TaskRecord{454645a8 #55 A=com.uxin.usedcar U=0 sz=0}
+  * Recent #3: TaskRecord{457b2b88 #13 A=com.tencent.mobileqq U=0 sz=1}
+  * Recent #4: TaskRecord{44f70220 #50 A=com.youxinpai.carcollect U=0 sz=2}
+  * Recent #5: TaskRecord{449b4370 #8 A=com.tencent.mm U=0 sz=1}
+  * Recent #6: TaskRecord{45760e80 #48 A=com.shuame.mobile U=0 sz=0}
+  * Recent #7: TaskRecord{45720b90 #49 A=android.task.mms U=0 sz=1}
+  * Recent #8: TaskRecord{4444ffd8 #39 I=com.android.settings/.SettingsReceiverActivity U=0 sz=0}
+  * Recent #9: TaskRecord{443f3b20 #37 A=com.example.zhangweilong.zwl U=0 sz=0}
+  * Recent #10: TaskRecord{43857bf8 #16 A=com.handsgo.jiakao.android U=0 sz=0}
+  * Recent #11: TaskRecord{44a0b7a0 #12 A=android.task.camera U=0 sz=1}
+  * Recent #12: TaskRecord{44463368 #5 A=com.android.settings U=0 sz=0}
+  * Recent #13: TaskRecord{448abf88 #6 A=com.baidu.map.location U=0 sz=0}
+  * Recent #14: TaskRecord{44328340 #3 A=com.sec.android.widgetapp.ap.hero.accuweather U=0 sz=0}
+  * Recent #15: TaskRecord{44276e58 #4 I=com.google.android.gms/com.google.android.location.network.ConfirmAlertActivity U=0 sz=0}
+  * Recent #16: TaskRecord{44334400 #2 I=com.android.settings/.wifi.WifiWarningDialog U=0 sz=0}
+
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Process LRU list (sorted by oom_adj, 86 total, non-act at 9, non-svc at 9):
+    PERS #85: pers  F/ /P  trm: 0 900:system/1000 (fixed)
+    PERS #83: pers  F/ /P  trm: 0 1427:com.android.systemui/u0a15 (fixed)
+    PERS #82: pers  F/ /P  trm: 0 1671:com.android.phone/1001 (fixed)
+    PERS #81: pers  F/ /P  trm: 0 1684:com.android.nfc/1027 (fixed)
+    PERS #79: pers  F/ /P  trm: 0 1893:com.sec.android.provider.logsprovider/u0a16 (fixed)
+    PERS #77: pers  F/ /P  trm: 0 1933:android.process.acore/u0a16 (fixed)
+    PERS #76: pers  F/ /P  trm: 0 2173:com.sec.android.pagebuddynotisvc/u0a22 (fixed)
+    PERS #75: pers  F/ /P  trm: 0 2220:com.android.contacts/u0a16 (fixed)
+    PERS #74: pers  F/ /P  trm: 0 2239:com.samsung.android.writingbuddyservice/1000 (fixed)
+    PERS #73: pers  F/ /P  trm: 0 2249:com.samsung.android.providers.context/1000 (fixed)
+    Proc # 0: fore  F/A/T  trm: 0 11229:com.uxin.goodcar/u0a169 (top-activity)
+    Proc #80: vis   F/ /IF trm: 0 1803:org.simalliance.openmobileapi.service:remote/1101 (service)
+        org.simalliance.openmobileapi.service/.SmartcardService<=Proc{1684:com.android.nfc/1027}
+    Proc #78: vis   F/ /IF trm: 0 1915:com.android.bluetooth/1002 (service)
+        com.android.bluetooth/.hfp.HeadsetService<=Proc{1671:com.android.phone/1001}
+    Proc #72: vis   F/ /IF trm: 0 2116:com.sec.android.sviewcover/u0a15 (service)
+        com.sec.android.sviewcover/.SViewCoverBaseService<=Proc{900:system/1000}
+    Proc #71: vis   F/ /IF trm: 0 2137:com.google.process.location/u0a46 (service)
+        com.google.android.backuptransport/com.google.android.backup.BackupTransportService<=Proc{900:system/1000}
+    Proc #67: vis   B/ /IB trm: 0 8166:com.baidu.map.location/u0a121 (service)
+        com.baidu.map.location/.BaiduNetworkLocationService<=Proc{900:system/1000}
+    Proc #51: vis   F/ /T  trm: 0 11781:com.uxin.goodcar:ipc/u0a169 (service)
+        com.uxin.goodcar/io.rong.imlib.ipc.RongService<=Proc{11229:com.uxin.goodcar/u0a169}
+    Proc #63: prcp  F/ /IF trm: 0 12291:com.samsung.android.app.galaxyfinder:tagService/u0a27 (force-fg)
+        {null}<=android.os.BinderProxy@442ad228
+    Proc #62: prcp  F/ /IF trm: 0 11027:com.samsung.android.MtpApplication/1000 (force-fg)
+        {null}<=android.os.BinderProxy@42e566d0
+    Proc #39: prcp  F/ /IF trm: 0 2706:com.sohu.inputmethod.sogou/u0a157 (service)
+        com.sohu.inputmethod.sogou/.SogouIME<=Proc{900:system/1000}
+    Proc # 4: prcp  F/S/IF trm: 0 27878:com.tencent.mobileqq/u0a146 (fg-service)
+    Proc # 2: prcp  F/ /IF trm: 0 3607:com.tencent.mobileqq:MSF/u0a146 (service)
+        com.tencent.mobileqq/.msf.service.MsfService<=Proc{27878:com.tencent.mobileqq/u0a146}
+    Proc #45: svc   B/ /S  trm: 0 1019:com.taobao.taobao:channel/u0a149 (started-services)
+    Proc #23: svc   B/ /S  trm: 0 29096:com.google.android.gms.persistent/u0a46 (started-services)
+    Proc #22: svc   B/ /S  trm: 0 29045:com.google.process.gapps/u0a46 (started-services)
+    Proc #20: svc   B/ /S  trm: 0 29585:io.rong.push/u0a167 (started-services)
+    Proc #15: svc   B/ /S  trm: 0 1632:android.process.media/u0a30 (provider)
+        com.android.providers.media/.MediaProvider<=Proc{20619:com.samsung.dcm:DCMService/u0a9}
+    Proc #14: svc   B/ /S  trm: 0 20619:com.samsung.dcm:DCMService/u0a9 (started-services)
+    Proc #11: svc   B/ /S  trm: 0 5520:com.tencent.mm:push/u0a145 (started-services)
+    Proc # 8: home  B/ /HO trm: 0 1906:com.samsung.android.app.gestureservice/1000 (service)
+        com.samsung.android.app.gestureservice/.GestureService<=Proc{1691:com.sec.android.app.launcher/u0a45}
+    Proc # 1: home  B/ /HO trm: 0 1691:com.sec.android.app.launcher/u0a45 (home)
+    Proc #69: svcb  B/ /S  trm: 0 5323:com.browser_llqhz:ixintui_service_v1/u0a133 (started-services)
+    Proc #60: svcb  B/ /S  trm: 0 31599:com.cmbchina.ccd.pluto.cmbActivity:pushservice/u0a137 (started-services)
+    Proc #58: svcb  B/ /S  trm: 0 31844:com.ss.android.article.news:push/u0a138 (started-services)
+    Proc #57: svcb  B/ /S  trm: 0 32293:com.sina.weibo:remote/u0a150 (started-services)
+    Proc #55: svcb  B/ /S  trm: 0 31910:com.ss.android.essay.joke:push/u0a139 (started-services)
+    Proc #54: svcb  B/ /S  trm: 0 32005:com.autonavi.minimap:push/u0a148 (started-services)
+    Proc #52: svcb  B/ /S  trm: 0 29898:com.uxin.usedcar:push/u0a166 (started-services)
+    Proc #50: svcb  B/ /S  trm: 0 29787:com.uxin.usedcar:remote/u0a166 (service)
+        com.uxin.usedcar/com.baidu.location.f<=Proc{29898:com.uxin.usedcar:push/u0a166}
+    Proc #46: svcb  B/ /S  trm: 0 1281:com.eg.android.AlipayGphone:push/u0a151 (started-services)
+    Proc #43: svcb  B/ /S  trm: 0 3582:com.shuame.mobile:xg_service_v2/u0a135 (started-services)
+    Proc #37: svcb  B/ /S  trm: 0 30671:com.hipu.yidian/u0a155 (service)
+        com.hipu.yidian/com.igexin.sdk.PushServiceUser<=Proc{30648:com.hipu.yidian:pushservice/u0a155}
+    Proc #36: svcb  B/ /S  trm: 0 30648:com.hipu.yidian:pushservice/u0a155 (started-services)
+    Proc #31: svcb  B/ /S  trm: 0 1043:com.taobao.taobao/u0a149 (service)
+        com.taobao.taobao/com.alibaba.mtl.appmonitor.AppMonitorService<=Proc{1019:com.taobao.taobao:channel/u0a149}
+    Proc #48: cch   B/ /S  trm: 0 2966:com.samsung.inputmethod/1000 (service)
+        com.samsung.inputmethod/.service.ui.SimeUIService<=Proc{2933:com.bst.airmessage/u0a2}
+    Proc #47: cch   B/ /S  trm: 0 2933:com.bst.airmessage/u0a2 (cch-started-services)
+        com.bst.airmessage/.host.AirMessageService<=Proc{2222:com.android.mms/u0a44}
+    Proc #35: cch   B/ /S  trm: 0 29572:com.youxinpai.carcollect:ipc/u0a167 (service)
+        com.youxinpai.carcollect/io.rong.imlib.ipc.RongService<=Proc{29556:com.youxinpai.carcollect/u0a167}
+    Proc # 6: cch   B/ /CA trm: 0 2222:com.android.mms/u0a44 (cch-act)
+    Proc # 5: cch   B/ /S  trm: 0 6399:com.tencent.mm/u0a145 (cch-started-ui-services)
+    Proc # 3: cch   B/ /S  trm: 0 29556:com.youxinpai.carcollect/u0a167 (cch-started-ui-services)
+    Proc # 7: cch+1 B/ /CA trm: 0 27470:com.sec.android.app.camera/u0a88 (cch-act)
+    Proc #10: cch+2 B/ /CE trm: 0 20830:com.sec.android.provider.badge/u0a53 (cch-empty)
+    Proc # 9: cch+2 B/ /CE trm: 0 11956:com.youxinpai.carcollect:remote/u0a167 (cch-empty)
+    Proc #13: cch+4 B/ /CE trm: 0 20432:com.google.android.gms/u0a46 (cch-empty)
+    Proc #12: cch+4 B/ /CE trm: 0 12181:com.browser_llqhz/u0a133 (cch-empty)
+    Proc #84: cch+6 B/ /S  trm: 0 1450:com.samsung.android.fingerprint.service/1000 (cch-started-services)
+    Proc #70: cch+6 B/ /S  trm: 0 4891:com.sec.android.app.SPenKeeper/u0a83 (cch-started-services)
+    Proc #68: cch+6 B/ /S  trm: 0 7532:com.samsung.android.app.pinboard:LocationTagService/u0a25 (cch-started-services)
+    Proc #66: cch+6 B/ /S  trm: 0 5009:com.android.de/u0a108 (cch-started-services)
+    Proc #65: cch+6 B/ /S  trm: 0 5189:com.samsung.SMT/1000 (service)
+        com.samsung.SMT/.SamsungTTSService<=Proc{5129:com.vlingo.midas/u0a128}
+    Proc #64: cch+6 B/ /S  trm: 0 5129:com.vlingo.midas/u0a128 (cch-started-services)
+    Proc #61: cch+6 B/ /S  trm: 0 20027:com.android.exchange/u0a127 (cch-started-services)
+    Proc #59: cch+6 B/ /S  trm: 0 31653:com.cmbchina.ccd.pluto.cmbActivity:push/u0a137 (cch-started-services)
+    Proc #56: cch+6 B/ /S  trm: 0 10114:com.uxin.usedcar/u0a166 (cch-started-services)
+    Proc #53: cch+6 B/ /S  trm: 0 3450:com.samsung.android.snote/u0a129 (cch-started-services)
+    Proc #49: cch+6 B/ /S  trm: 0 10206:com.uxin.usedcar:ipc/u0a166 (cch-empty)
+    Proc #44: cch+6 B/ /S  trm: 0 32198:com.sina.weibo/u0a150 (cch-started-services)
+    Proc #42: cch+6 B/ /S  trm: 0 3649:com.shuame.mobile/u0a135 (cch-started-ui-services)
+    Proc #41: cch+6 B/ /CE trm: 0 21127:eu.chainfire.supersu/u0a134 (cch-empty)
+    Proc #40: cch+6 B/ /CE trm: 0 2758:sogou.mobile.explorer.hotwords/u0a157 (cch-empty)
+    Proc #38: cch+6 B/ /CE trm: 0 12381:com.ss.android.article.news:pushservice/u0a138 (cch-empty)
+    Proc #34: cch+6 B/ /CE trm: 0 20201:com.sec.android.app.popupuireceiver/1000 (cch-empty)
+    Proc #33: cch+6 B/ /CE trm: 0 20234:com.sec.android.app.SecSetupWizard/1000 (cch-empty)
+    Proc #32: cch+6 B/ /S  trm: 0 20455:com.samsung.android.app.pinboard:sync/u0a25 (cch-started-services)
+    Proc #30: cch+6 B/ /CE trm: 0 20288:com.osp.app.signin/u0a28 (cch-empty)
+    Proc #29: cch+6 B/ /CE trm: 0 20321:com.android.settings/1000 (cch-empty)
+    Proc #28: cch+6 B/ /CE trm: 0 20378:com.qualcomm.timeservice/u0a103 (cch-empty)
+    Proc #27: cch+6 B/ /CE trm: 0 20411:com.sec.android.app.controlpanel/u0a119 (cch-empty)
+    Proc #26: cch+6 B/ /HO trm: 0 1994:com.sec.android.widgetapp.ap.hero.accuweather/u0a122 (cch-bound-ui-services)
+        com.sec.android.widgetapp.ap.hero.accuweather/.SurfaceWidgetWeather<=Proc{1691:com.sec.android.app.launcher/u0a45}
+    Proc #25: cch+6 B/ /S  trm: 0 27586:com.sec.android.daemonapp/u0a123 (cch-started-services)
+    Proc #24: cch+6 B/ /CE trm: 0 20394:com.sec.android.app.clockpackage/u0a109 (cch-empty)
+    Proc #21: cch+6 B/ /CE trm: 0 20488:com.google.android.gms.wearable/u0a46 (cch-empty)
+    Proc #19: cch+6 B/ /CE trm: 0 20646:com.android.providers.calendar/u0a29 (cch-empty)
+    Proc #18: cch+6 B/ /CE trm: 0 20249:com.android.calendar/u0a85 (cch-empty)
+    Proc #17: cch+6 B/ /CE trm: 0 20360:com.sec.android.widgetapp.SPlannerAppWidget/u0a86 (cch-empty)
+    Proc #16: cch+6 B/ /CE trm: 0 20692:com.sec.android.app.videoplayer/u0a36 (cch-empty)
+
+  Foreground Processes:
+    PID #11027: com.android.server.am.ActivityManagerService$10@431d81f8
+    PID #12291: com.android.server.am.ActivityManagerService$10@442ad288
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mHomeProcess: ProcessRecord{439be828 1691:com.sec.android.app.launcher/u0a45}
+  mPreviousProcess: ProcessRecord{44309970 27878:com.tencent.mobileqq/u0a146}
+  mProcessLimit: 25
+  mProcessLimitOverride: -1
+  mConfiguration: {0 1.0 460mcc65535mnc zh_CN ldltr sw360dp w360dp h615dp 480dpi nrml long port finger -keyb/v/h -nav/h s.8}
+  TRIM_EMPTY_APPS: 10
+  TRIM_CACHED_APPS: 2
+  TRIM_CRITICAL_THRESHOLD: 3
+  TRIM_LOW_THRESHOLD: 5

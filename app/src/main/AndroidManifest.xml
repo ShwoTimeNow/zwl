@@ -26,6 +26,7 @@
         <activity android:name=".View.ViewActivity"/>
         <activity android:name=".EditView.EditViewActivity"/>
         <activity android:name=".TextView.TextViewActivity"/>
+        <activity android:name=".PopWindow.PopWindowActivity"/>
     </application>
 
 </manifest>
